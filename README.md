@@ -21,8 +21,10 @@ There are no checks that are performed in terms of installed dependencies so ple
 
 # Configuration
 
-In order to run the analysis it is required that you provide paths to the scripts and data that are used. Scripts that are used come from various repositories - they are mainly wrappers for quite generic functions but need to be present for this particular analysis to run. Firts download or clone the following repositories:
+In order to run the analysis it is required that you provide paths to the scripts and data that are used. Scripts that are used come from various repositories - they are mainly wrappers for quite generic functions but need to be present for this particular analysis to run. First download or clone the following repositories:
 
 [MIGTranscriptomeExplorer](https://github.com/nickilott/MIGTranscriptomeExplorer)
+
 [NGSKit](https://github.com/nickilott/NGSKit)
+
 [AmpSeqKit](https://github.com/nickilott/AmpSeqKit)
