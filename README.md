@@ -8,10 +8,10 @@ There are no checks that are performed in terms of installed dependencies so ple
 
 | **R package** |
 -----------------
-|:knitr:        |
-|:gridExtra:    |
-|:phyloseq:     |
-|:ggplot2:      |
-|:data.table:   |
-|:vegan:        |
-|:pheatmap:     |
+|:knitr        :|
+|:gridExtra    :|
+|:phyloseq     :|
+|:ggplot2      :|
+|:data.table   :|
+|:vegan        :|
+|:pheatmap     :|
