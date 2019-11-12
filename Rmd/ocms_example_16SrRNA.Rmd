@@ -1,5 +1,5 @@
 ---
-title: Data analysis example report
+title: Data analysis example
 header-includes: #allows you to add in your own Latex packages
 - \usepackage{float} #use the 'float' package
 - \floatplacement{figure}{H} #make every figure with caption = h
@@ -15,38 +15,13 @@ urlcolor: blue
 ---
 
 ```{r setup, include=FALSE}
-source("config.R")
+
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(cache = FALSE)
 knitr::opts_chunk$set(warning = FALSE)
 knitr::opts_chunk$set(out.extra = '')
 # knitr::opts_chunk$set(fig.pos = 'H')
 knitr::opts_knit$set(root.dir = ".")
-
-# set colours here
-group.colours <- c("grey", "purple", "black", "blue")
-names(group.colours) <- c("WT:water", "WT:DSS", "MMP-9KO:water", "MMP-9KO:DSS")
-
-```
-
-```{r load.libraries, echo=FALSE, message=FALSE}
-library(knitr)
-library(gridExtra)
-library(phyloseq)
-library(ggplot2)
-library(data.table)
-library(vegan)
-library(pheatmap)
-
-source(paste0(AmpSeqKit.dir, "/R/diversity.R"))
-source(paste0(AmpSeqKit.dir, "/R/relab.R"))
-source(paste0(AmpSeqKit.dir, "/R/plots.R"))
-source(paste0(AmpSeqKit.dir, "/R/utils.R"))
-source(paste0(AmpSeqKit.dir, "/R/differential_abundance.R"))
-source(paste0(NGSKit.dir, "deseq2_helper.R"))
-source(paste0(MIGTranscriptomeExplorer.dir, "/R/MIGTranscriptome_plotting.R"))
-source(paste0(MIGTranscriptomeExplorer.dir, "/R/MIGTranscriptome_retrieval.R"))
-
 ```
 
 # Overview
@@ -57,39 +32,96 @@ Here we present an example analysis report from the OCMS. The data are from a pu
 
 The sequencing have been run through the OCMS Dada2 pipeline (please see the example dada2 report) and the analyses performed here are based on the amplicon sequence variant (ASV) table that is output from that pipeline. It should be noted here that the sequence quality in a lot of the samples was poor. This appeared to cause a problem for Dada2 as we were unable to assign taxononmy even at the phylum level for the majority of sequences from 15 samples. These samples have been removed for the purposes of this analysis i.e. as this is simply an example report.
 
+# Setup
+
+Here we set up the script with colours that we want to use for different groups as well as the required packages and script dependencies.
+
+## Set up colours for the different groups
+
+Here we set up colour maps for subsequent plots i.e. group colours
+
+```{r setup.colours, echo=TRUE, message=FALSE}
+
+group.colours <- c("grey", "purple", "black", "blue")
+names(group.colours) <- c("WT:water", "WT:DSS", "MMP-9KO:water", "MMP-9KO:DSS")
+```
+
+## Attach relevant R packages
+
+Next we attach the packages that we will need for the analyses.
+
+```{r load.libraries, echo=TRUE, message=FALSE}
+library(knitr)
+library(gridExtra)
+library(phyloseq)
+library(ggplot2)
+library(data.table)
+library(vegan)
+library(pheatmap)
+```
+
+## Source the configuration file and scripts from the repositories that this script depends on
+
+The required repositories that contain R scripts for functions used in the analyses should have been downloaded and the locations of these specified in ocms_example_16srRNA.config.R.
+
+```{r source.scripts, echo=TRUE, message=FALSE}
+source("ocms_example_16SrRNA.config.R")
+source(paste0(AmpSeqKit.dir, "/R/diversity.R"))
+source(paste0(AmpSeqKit.dir, "/R/relab.R"))
+source(paste0(AmpSeqKit.dir, "/R/plots.R"))
+source(paste0(AmpSeqKit.dir, "/R/utils.R"))
+source(paste0(AmpSeqKit.dir, "/R/differential_abundance.R"))
+source(paste0(NGSKit.dir, "/R/deseq2_helper.R"))
+source(paste0(MIGTranscriptomeExplorer.dir, "/R/MIGTranscriptome_plotting.R"))
+source(paste0(MIGTranscriptomeExplorer.dir, "/R/MIGTranscriptome_retrieval.R"))
+```
+
+Now we are ready to do the analyses.
+
 # General features
 
 First we assess the relative abundance of the ASVs along with their taxonomic assignments. We look at the average (across samples) relative abundance distribution of ASVs and the ASV/taxonomic distribution across individual samples. For the purposes of the second plot we are plotting the ASVs that are present at an abundance pf > 5% in at least 5 samples. All of the rest of the ASVs are lumped into the "other" category.
 
 
-```{r relative.abundance, fig.height=10, fig.width=15, echo=FALSE, message=FALSE}
+```{r relative.abundance, fig.height=10, fig.width=15, echo=TRUE, message=FALSE}
 
-# read in ASV counts and metadata
+# Read metadata
 metadata <- read.csv(metadata, header=T, stringsAsFactors=F, sep="\t")
+
+# Remove whitespace in the genotype column
 metadata$Genotype <- gsub(" ", "", metadata$Genotype)
+
+# Create a new variable that combines genotype and phenotype (phenotype in this case is DSS treatment)
 metadata$condition <- paste0(metadata$Genotype, ":", metadata$Phenotype)
 rownames(metadata) <- metadata$X.sample_name
 
+# Read in ASV counts data
 asvs <- data.frame(data.table::fread(asv.counts, header=T, stringsAsFactors=F, sep="\t"))
 
+# Format the data so that the ASV IDs are the rownames
 rownames(asvs) <- asvs$sequence
 asvs <- asvs[,2:ncol(asvs)]
+
+# Remove unneccessary bits in the column names and make sure they match the
+# metadata sample names
 colnames(asvs) <- gsub("stool.", "", colnames(asvs))
 
-# get rid of troublesome samples
+# Get rid of the troublesome samples
 asvs <- asvs[,colSums(asvs[grep("p__NA", rownames(asvs)),]) < 5000]
 
-# subset metadata
+# Subset metadata
 metadata <- metadata[metadata$X.sample_name %in% colnames(asvs),]
 
-# order the same as metadata
+# Order the ASV table the same as metadata
 asvs <- asvs[,metadata$X.sample_name]
 
-# relative abundance
+# Calculate relative abundance
 asv.relab <- relab(asvs)
 
-# take the average abundance
+# Take the average abundance
 ave.relab <- data.frame(average_relative_abundance=rowMeans(asv.relab))
+
+# Plot the distribution of relative abundance
 distribution <- ggplot(ave.relab, aes(average_relative_abundance))
 distribution <- distribution + geom_freqpoly() + theme_bw()
 
@@ -97,13 +129,14 @@ distribution <- distribution + geom_freqpoly() + theme_bw()
 toplot <- filterRows(asv.relab, 5, 5)
 toplot["other",] <- unname(100-colSums(toplot))
 
-# add the condition for visualisation purposes
+# Add the condition for visualisation purposes
 colnames(toplot) <- paste0(metadata$condition, "_", colnames(toplot))
 toplot <- toplot[,mixedsort(colnames(toplot))]
 toplot$ASV <- rownames(toplot)
 toplot <- melt(toplot)
 relab.bar <- plotBar(toplot)
 
+# Create layout matrix for the plots
 hlay <- rbind(c(1, NA, NA),
               c(2, 2, 2))
 grid.arrange(distribution, relab.bar, layout_matrix=hlay)
@@ -119,15 +152,21 @@ Here we asses whether there are any differences between the experimental groups 
 
 ```{r alpha.diversity, fig.height=3, fig.width=5, echo=FALSE, message=FALSE}
 
-
+# Here we use phyloseq...
 dat <- otu_table(asvs, taxa_are_rows=TRUE)
 sample.data <- sample_data(metadata)
 dat <- merge_phyloseq(dat, sample.data)
 
+# Shannon diversity
 richness <- estimate_richness(dat, measures=c("Shannon"))
+
+# Add Shannon diversity to metadata as is easier to plot this way
 metadata$shannon <- richness$Shannon
 
+# Make sure the plot orders the way that we want
 metadata$condition <- factor(metadata$condition, levels=c("WT:water", "WT:DSS", "MMP-9KO:water", "MMP-9KO:DSS"))
+
+# Plot alpha diversity
 p1 <- ggplot(metadata, aes(x=condition, y=shannon, group=condition, colour=condition))
 p2 <- p1 + geom_boxplot()
 p3 <- p2 + theme_bw()
@@ -135,6 +174,7 @@ p4 <- p3 + geom_jitter(width=0.2)
 p5 <- p4 + scale_colour_manual(values=group.colours) 
 p5 + theme(axis.text.x=element_text(angle=90))
 
+# Create data frame that can be used as input to the kruskall wallis test
 to.test <- data.frame(alpha.diversity=metadata$shannon,
                       condition=metadata$condition)
 
@@ -144,25 +184,25 @@ kable(d)
 
 The analyses above indicate that there is a significant difference in Shannon diversity between the groups. It is clear that DSS induces a reduction in Shannon diversity regardless of genotype.
 
-
 # Beta diversity
 
 Next we assess beta-diversity. The ASV counts are converted to relative abundances and bray-curtis dissimilarity is calculated using the [phyloseq](https://joey711.github.io/phyloseq/) package. 
 
-
 ```{r ordination, fig.height=3, fig.width=5, echo=FALSE, message=FALSE}
 
-asvs.relab <- relab(asvs)
-dat.relab <- otu_table(asvs.relab, taxa_are_rows=TRUE)
+# Remake phyloseq object with relative abundances
+dat.relab <- otu_table(asv.relab, taxa_are_rows=TRUE)
 sample.data <- sample_data(metadata)
 dat.relab <- merge_phyloseq(dat.relab, sample.data)
 
+
+# Get dissimilarity - Bray-Curtis in this case
 dat.dissimilarity <- phyloseq::distance(dat.relab, method="bray")
 
-# ordination
+# Ordination
 dat.mds <- ordinate(dat.relab, "MDS", distance=dat.dissimilarity)
 
-# plot
+# Plot the ordination
 p6 <- plot_ordination(dat.relab, dat.mds, color="condition")
 p7 <- p6 + theme_bw()
 p8 <- p7 + scale_colour_manual(values=group.colours)
@@ -175,19 +215,16 @@ There is a clear change in microbial composition according to DSS treatment and 
 
 ```{r permanova, echo=FALSE, message=FALSE}
 
-
-perm1 <- adonis(t(asvs.relab) ~ Phenotype + Genotype, method="bray", data=metadata, permutations=1000)
+# Do the PERMANOVA
+perm1 <- adonis(t(asv.relab) ~ Phenotype + Genotype, method="bray", data=metadata, permutations=1000)
 kable(data.frame(perm1$aov.tab))
-
 ```
 
 There is a significant effect of DSS treatment as suspected and a non-sigificant effect of genotype on microbial composition.
 
-
 # ASV differential abundance
 
 For differential abundance analysis we use the R package [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html). The input to this analysis was the ASV count table.
-
 
 ## Normalisation
 
@@ -195,17 +232,15 @@ First we perform the normalisation procedure and summarise the mean-variance rel
 
 ```{r deseq2.normalisation, fig.width=8, fig.height=4, echo=FALSE, message=FALSE}
 
-
-# create dds object with covariates
+# Create dds object with covariates
 rownames(metadata) <- metadata$X.sample_name
 dds <- DESeqDataSetFromMatrix(countData = asvs,
                               colData = metadata,
 			      design = ~ condition)
 
-
 dds$condition <- factor(dds$condition, levels=c("WT:water", "MMP-9KO:water", "WT:DSS", "MMP-9KO:DSS"))
 
-# run analysis
+# Run DESeq2 analysis
 dds.lrt <- DESeq(dds, test="LRT", fitType="local", reduced=~1)
 res <- results(dds.lrt)
 
@@ -213,13 +248,12 @@ res <- results(dds.lrt)
 nt <- normTransform(dds)
 ntdf <- data.frame(assay(nt))
 
-# plot mean-variance relationship and dispersion
+# Plot mean-variance relationship and dispersion
 # estimates
 
 par(mfrow=c(1,2))
 plotMeanSd(ntdf)
 plotDispEsts(dds.lrt)
-
 ```
 
 ## Differential abundance
@@ -228,64 +262,51 @@ Significantly differentially abundant ASVs have been called using the likelihood
 
 ```{r deseq2.results, fig.height=5, fig.width=7, echo=FALSE, message=FALSE}
 
-# get differential abundance results
+# Get differential abundance results
 res <- results(dds.lrt)
 res2 <- data.frame(res@listData)
 rownames(res2) <- rownames(res)
 
-# subset for genes that are differentially regulated
+# Subset for genes that are differentially regulated
 res.diff <- res2[res2$padj < 0.05 & !(is.na(res2$padj)),]
 
-# get number different
+# Get number different
 ndiff <- nrow(res.diff)
 df <- data.frame("Number DE" = ndiff)
 kable(df, caption="number of genes differentially expressed at p < 0.05")
 
-# get matrix with diff ASV's
+# Get matrix with diff ASV's
 ntdf.diff <- ntdf[rownames(res.diff),]
 
-# make annotation
+# Make annotation
 col.annotation <- data.frame(condition=metadata$condition)
 rownames(col.annotation) <- paste0("X",rownames(metadata))
 
+# Heatmap to show the differences
 heatmapMatrixWithSampleAnnotation(ntdf.diff, col.annotation)
-
-
-# differential abundance at each level
-
-infiles <- c("asv_abundances.tsv",
-             "genus_abundance.tsv",
-	     "family_abundance.tsv",
-	     "order_abundance.tsv",
-	     "class_abundance.tsv",
-	     "phylum_abundance.tsv")
-
-# manipulate metadata
-metadata.r <- metadata
-rownames(metadata.r) <- paste0("stool", ".", rownames(metadata))
-
-results.all.levels <- multiDE(infiles, metadata.r, model.formula=~condition, reduced.model=~1)
-write.table(results.all.levels, file="differential_expression.results", sep="\t", row.names=F, quote=F)
 
 ```
 
 ## Differentially abundant ASVs
 
-Below we show the abundances of the significantly differentially abundant ASVs.
+Below we show the abundances of the significantly differentially abundant ASVs (top 10).
 
 ```{r diff.asvs, fig.width=12, fig.height=16, echo=FALSE, message=FALSE}
 
+# Order by p-value
 res.diff <- res.diff[order(res.diff$padj, decreasing=FALSE),]
 
-# just plot the top 10
+# Plot the top 10
 res.diff.top <- res.diff[1:10,] 
-asv.relab.diff <- asvs.relab[rownames(res.diff.top),]
+asv.relab.diff <- asv.relab[rownames(res.diff.top),]
 
+# Get the names for the genera without all levels in the name
 genera <- getShortNames(rownames(asv.relab.diff), type="ASV", level="genus")
 asv <- unlist(strsplit(rownames(asv.relab.diff),":"))
 asv <- asv[seq(1, length(asv),2)]
 rownames(asv.relab.diff) <- paste0(asv, ":", genera)
 
+# Plot the ASVs of interest. Although this says plotGeneOfInterest() it is a genreeic function for any feature
 p <- plotGeneOfInterest("", asv.relab.diff, metadata, variable="condition") + ylab("Relative abundance (%)")
 p <- p + facet_wrap(~test_id, nrow=4, ncol=3, scale="free")
 p + scale_colour_manual(values=group.colours)
