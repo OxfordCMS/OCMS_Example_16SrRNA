@@ -80,6 +80,5 @@ Once this is done it should be as simple as firing up R/RStudio and running:
 rmarkdown::render("ocms_example_16SrRNA.Rmd", output_format="html_document")
 ```
 
-This will produce an html report that contains the analysis results and the code that was run to produce the results. This should provide code snippets and such for use in your own data analysis.
+This will produce an html report that contains the analysis results and the code that was run to produce the results. This should provide code snippets and such for use in your own data analysis. If you want to run the steps one by one then the html is already build at html/ocms_example_16SrRNA.html.
 
-The same output can be found as a pdf file in pdf/ocms_example_16srRNA.pdf if you prefer to look at the code this way.

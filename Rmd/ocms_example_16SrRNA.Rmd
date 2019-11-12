@@ -150,7 +150,7 @@ As expected there are many ASVs at low abundance and few that make up the majori
 
 Here we asses whether there are any differences between the experimental groups in terms of alpha diversity (within-sample diversity) using the Shannon diversity index. The Kruskal-Wallis test is used to determine statistical significance of any difference.
 
-```{r alpha.diversity, fig.height=3, fig.width=5, echo=FALSE, message=FALSE}
+```{r alpha.diversity, fig.height=3, fig.width=5, echo=TRUE, message=FALSE}
 
 # Here we use phyloseq...
 dat <- otu_table(asvs, taxa_are_rows=TRUE)
@@ -188,7 +188,7 @@ The analyses above indicate that there is a significant difference in Shannon di
 
 Next we assess beta-diversity. The ASV counts are converted to relative abundances and bray-curtis dissimilarity is calculated using the [phyloseq](https://joey711.github.io/phyloseq/) package. 
 
-```{r ordination, fig.height=3, fig.width=5, echo=FALSE, message=FALSE}
+```{r ordination, fig.height=3, fig.width=5, echo=TRUE, message=FALSE}
 
 # Remake phyloseq object with relative abundances
 dat.relab <- otu_table(asv.relab, taxa_are_rows=TRUE)
@@ -213,7 +213,7 @@ p9
 There is a clear change in microbial composition according to DSS treatment and no visual evidence for an association with genotype. We can formally test this using a PERMANOVA test that is implemented using the adonis function in the R package [vegan](https://cran.r-project.org/web/packages/vegan/index.html). Below is a table of the results using adonis with 1000 permutations.
 
 
-```{r permanova, echo=FALSE, message=FALSE}
+```{r permanova, echo=TRUE, message=FALSE}
 
 # Do the PERMANOVA
 perm1 <- adonis(t(asv.relab) ~ Phenotype + Genotype, method="bray", data=metadata, permutations=1000)
@@ -230,7 +230,7 @@ For differential abundance analysis we use the R package [DESeq2](https://biocon
 
 First we perform the normalisation procedure and summarise the mean-variance relationship of abundance estimates across samples.
 
-```{r deseq2.normalisation, fig.width=8, fig.height=4, echo=FALSE, message=FALSE}
+```{r deseq2.normalisation, fig.width=8, fig.height=4, echo=TRUE, message=FALSE}
 
 # Create dds object with covariates
 rownames(metadata) <- metadata$X.sample_name
@@ -260,7 +260,7 @@ plotDispEsts(dds.lrt)
 
 Significantly differentially abundant ASVs have been called using the likelihood ratio test (LRT) implementeed in DESeq2. This takes all four levels in the factor condition and looks for differentially abundant features across all groups simultaneously. We plot a heatmap of differentially abundant ASVs in order to ge a feel for the conditions where differences are observed. The number of significantly differentially abundant ASVs at an adjusted p-value < 0.05 are provided in the table at the top of this section.
 
-```{r deseq2.results, fig.height=5, fig.width=7, echo=FALSE, message=FALSE}
+```{r deseq2.results, fig.height=5, fig.width=7, echo=TRUE, message=FALSE}
 
 # Get differential abundance results
 res <- results(dds.lrt)
@@ -291,7 +291,7 @@ heatmapMatrixWithSampleAnnotation(ntdf.diff, col.annotation)
 
 Below we show the abundances of the significantly differentially abundant ASVs (top 10).
 
-```{r diff.asvs, fig.width=12, fig.height=16, echo=FALSE, message=FALSE}
+```{r diff.asvs, fig.width=12, fig.height=16, echo=TRUE, message=FALSE}
 
 # Order by p-value
 res.diff <- res.diff[order(res.diff$padj, decreasing=FALSE),]
