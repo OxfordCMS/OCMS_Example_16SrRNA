@@ -21,6 +21,7 @@ There are no checks that are performed in terms of installed dependencies so ple
 | pheatmap        |
 | RMarkdown       |
 | DESeq2          |
+| reshape         |
 
 # Scripts
 
@@ -34,7 +35,7 @@ In order to run the analysis it is required that you provide paths to the script
 
 # Configuration
 
-Paths to the repositories outlined in above should be specified in the ocms_example_16srRNA.config.R file before running the analysis.
+Paths to the repositories outlined in above should be specified in the ocms_example_16SrRNA.config.R file before running the analysis.
 
 # Running the example data
 
@@ -44,10 +45,10 @@ In order to run the analysis, create a new working directory where you want to r
 
 * data/metadata.tsv
 * data/asvs.tsv
-* R/ocms_example_16srRNA.config.R
-* Rmd/ocms_example_16srRNA.Rmd
+* R/ocms_example_16SrRNA.config.R
+* Rmd/ocms_example_16SrRNA.Rmd
 
-Once these are copied, open R or RStudio and edit the ocms_example_16srRNA.config.R in the working directory so that it points to where you have downloaded these repositories e.g.
+Once these are copied, open R or RStudio and edit the ocms_example_16SrRNA.config.R in the working directory so that it points to where you have downloaded these repositories e.g.
 
 ```
 ######################################################
@@ -76,7 +77,7 @@ metadata="metadata.tsv"
 Once this is done it should be as simple as firing up R/RStudio and running:
 
 ```
-rmarkdown::render("ocms_example_16srRNA.Rmd", output_format="html")
+rmarkdown::render("ocms_example_16SrRNA.Rmd", output_format="html_document")
 ```
 
 This will produce an html report that contains the analysis results and the code that was run to produce the results. This should provide code snippets and such for use in your own data analysis.
