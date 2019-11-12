@@ -22,7 +22,7 @@ There are no checks that are performed in terms of installed dependencies so ple
 | RMarkdown       |
 | DESeq2          |
 
-# Configuration
+# Scripts
 
 In order to run the analysis it is required that you provide paths to the scripts and data that are used. Scripts that are used come from various repositories - they are mainly wrappers for quite generic functions but need to be present for this particular analysis to run. First download or clone the following repositories:
 
@@ -32,23 +32,53 @@ In order to run the analysis it is required that you provide paths to the script
 
 [AmpSeqKit](https://github.com/nickilott/AmpSeqKit)
 
+# Configuration
+
+Paths to the repositories outlined in above should be specified in the ocms_example_16srRNA.config.R file before running the analysis.
+
 # Running the example data
 
 The data/ directory in this repository contains the count data (ASV counts) and the metadata that maps sample identifiers to variables of interest. These data come from publically available data for [this study](https://www.nature.com/articles/s41522-018-0059-0). The data are 16S rRNA amplicon sequencing data (V4 region sequenced on the Illumina MiSeq) from wild-type mice and MMP-9 deficient mice in either untreated or DSS treatemd conditions (i.e. inflammatory bowel disease model. Please see the original article for more details. Sequence data were processed using dada2 implemented in pipeline_dada2.py from [here](https://github.com/nickilott/NGSKit).
 
-The data look like the following:
+In order to run the analysis, create a new working directory where you want to run the analysis. Copy the following data files into this directory:
 
-## Counts matrix
+* data/metadata.tsv
+* data/asvs.tsv
+* R/ocms_example_16srRNA.config.R
+* Rmd/ocms_example_16srRNA.Rmd
 
-|sequence                                                                                             |stool-2DSS__10 | stool-2DSS__11|stool-2DSS__12 |stool-2DSS__13 |
-|-----------------------------------------------------------------------------------------------------|---------------|---------------|---------------|---------------|
-|ASV1:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA     |    7278       |      16       |       0       |     756       |
-|ASV2:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA       |    3669       |      0        |       0       |     0         |
-|ASV3:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Alloprevotella;s__NA      |    3437       |      0        |       0       |     829       |
-|ASV4:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__NA          |    1622       |      0        |       0       |     191       |
-|ASV5:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA     |    1517       |      110      |       0       |     461       |
+Once these are copied, open R or RStudio and edit the ocms_example_16srRNA.config.R in the working directory so that it points to where you have downloaded these repositories e.g.
 
+```
+######################################################
+######################################################
+# Configuration file for ocms_example_16SrRNA.Rmd
+######################################################
+######################################################
 
+# R scripts - these can be cloned from github and
+# functions in them are required for running the example
 
+AmpSeqKit.dir="<path-to-where-downloaded>/AmpSeqKit"
+NGSKit.dir="<path-to-where-downloaded>/NGSKit"
+MIGTranscriptomeExplorer.dir="<path-to-where-downloaded>/MIGTranscriptomeExplorer"
 
-## Metadata
+# Data
+
+# ASV counts table
+asv.counts="asvs.tsv"
+
+# metadata
+metadata="metadata.tsv"
+
+```
+
+Once this is done it should be as simple as firing up R/RStudio and running:
+
+```
+rmarkdown::render("ocms_example_16srRNA.Rmd", output_format="html")
+```
+
+This will produce an html report that contains the analysis results and the code that was run to produce the results. This should provide code snippets and such for use in your own data analysis.
+
+The same output can be found as a pdf file in pdf/ocms_example_16srRNA.pdf if you prefer to look at the code this way.
