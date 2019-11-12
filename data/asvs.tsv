@@ -1,0 +1,1072 @@
+sequence	stool-2DSS__10	stool-2DSS__11	stool-2DSS__12	stool-2DSS__13	stool-2DSS__14	stool-2DSS__16	stool-2DSS__18	stool-2DSS__19	stool-2DSS__1	stool-2DSS__21	stool-2DSS__23	stool-2DSS__24	stool-2DSS__25	stool-2DSS__27	stool-2DSS__28	stool-2DSS__2	stool-2DSS__30	stool-2DSS__3	stool-2DSS__5	stool-2DSS__6	stool-2DSS__7	stool-2DSS__8	stool-2DSS__9	stool-3DSS__11	stool-3DSS__16	stool-3DSS__21	stool-3DSS__22	stool-3DSS__23	stool-3DSS__24	stool-3DSS__26	stool-3DSS__27	stool-3DSS__29	stool-3DSS__2	stool-3DSS__30	stool-3DSS__7	stool-4DSS__16	stool-4DSS__1	stool-4DSS__23	stool-4DSS__24	stool-4DSS__6
+ASV1:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	7278	16	0	756	964	7499	2156	0	4291	0	7613	3320	0	0	0	7063	0	0	19	28	1146	0	46	0	0	0	0	0	0	0	3111	0	0	25	0	27	0	0	33	1844
+ASV2:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	3669	0	0	0	0	0	0	0	0	0	5394	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV3:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Alloprevotella;s__NA	3437	0	0	829	315	15	3938	0	1116	0	1115	923	0	0	0	1138	0	0	0	13	969	0	11	0	0	0	0	0	0	0	4151	0	0	0	0	0	0	14	16	748
+ASV4:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__NA	1622	0	0	191	347	117	1174	401	278	0	607	937	0	0	0	917	0	8	0	15	866	125	275	0	0	0	0	0	0	0	927	0	0	34	0	8	0	27	11	842
+ASV5:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	1517	110	0	461	1423	2073	1375	187	1888	31	6712	1401	0	113	0	1373	0	59	24	58	1233	302	209	0	0	0	0	0	0	0	493	0	0	663	0	547	0	327	346	2110
+ASV6:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	1397	0	0	0	678	1179	652	26	469	0	0	0	0	0	0	1085	0	0	0	0	1829	0	49	0	0	0	0	0	0	0	428	0	0	195	0	20	0	0	0	279
+ASV7:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus_taiwanensis(EU487512)	1100	0	0	114	488	1264	653	0	644	0	1128	872	0	0	0	34	0	0	0	17	988	0	16	0	0	0	0	0	0	0	372	0	0	72	0	0	0	0	39	556
+ASV8:p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__Helicobacter_ganmani(AF000221)	846	142	0	688	1514	310	1769	233	90	368	278	2065	0	30	0	413	0	178	25	48	288	136	381	0	0	0	0	0	0	0	363	0	0	1098	0	1269	0	1139	98	319
+ASV9:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	836	0	0	70	164	708	281	0	321	0	494	139	0	0	0	434	0	0	0	0	178	0	15	0	0	0	0	0	0	0	55	0	0	0	0	0	0	0	0	304
+ASV10:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	822	5174	0	129	162	1110	195	4198	458	5462	265	128	0	5399	0	189	0	11233	4943	4522	520	9736	6739	0	0	0	0	0	0	0	1647	0	0	9585	0	14549	0	6191	18687	321
+ASV11:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	822	0	0	93	169	747	471	56	381	0	1083	394	0	0	0	563	0	14	0	0	714	0	28	0	0	0	0	0	0	0	124	0	0	21	0	0	0	0	0	93
+ASV12:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	655	63	0	130	337	898	556	118	366	0	640	430	0	0	0	507	0	13	0	67	345	239	287	0	0	0	0	0	0	0	62	0	0	97	0	36	0	0	138	0
+ASV13:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	616	0	0	0	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	603	0	0	0	0	0	0
+ASV14:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	588	0	0	144	0	0	761	0	0	0	126	295	0	0	0	152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	58	0	0
+ASV15:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	556	0	0	236	126	893	1280	246	208	0	374	1294	0	0	0	179	0	0	0	245	818	1328	315	0	0	0	0	0	0	0	134	0	0	73	0	44	0	41	23	408
+ASV16:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	547	0	0	92	314	1018	649	0	197	0	644	336	0	0	0	642	0	0	0	24	869	0	0	0	0	0	0	0	0	0	546	0	0	0	0	0	0	0	0	355
+ASV17:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	539	32	0	240	231	708	696	152	240	20	681	1790	0	0	0	166	0	0	0	37	571	20	660	0	0	0	0	0	0	0	222	0	0	204	0	133	0	25	23	661
+ASV18:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	527	0	0	220	262	726	712	0	231	0	591	1136	0	0	0	322	0	0	0	0	547	19	0	0	0	0	0	0	0	0	390	0	0	22	0	0	0	0	30	287
+ASV19:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	479	9	0	0	0	496	204	54	194	0	294	197	0	31	0	153	0	20	0	28	235	20	27	0	0	0	0	0	0	0	145	0	0	83	0	51	0	69	48	180
+ASV20:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	464	335	0	134	170	532	618	0	245	153	463	701	0	168	0	428	0	0	917	1507	688	3640	424	0	0	0	0	0	0	0	334	0	0	248	0	346	0	405	859	231
+ASV21:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	455	0	0	98	74	350	280	22	341	0	245	301	0	0	0	346	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	105
+ASV22:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	415	0	0	88	213	421	465	0	386	0	543	321	0	0	0	212	0	0	0	0	330	0	0	0	0	0	0	0	0	0	127	0	0	129	0	0	0	0	0	178
+ASV23:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__NA;s__NA	395	12	0	92	90	389	325	141	200	0	126	116	0	0	0	124	0	0	0	20	29	113	113	0	0	0	0	0	0	0	310	0	0	9	0	27	0	70	11	93
+ASV24:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	379	0	0	415	648	1098	1694	0	0	0	303	1016	0	0	0	0	0	51	0	23	842	253	359	0	0	0	0	0	0	0	600	0	0	611	0	201	0	0	0	285
+ASV25:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	371	0	0	73	117	451	208	51	167	0	132	243	0	0	0	238	0	0	0	0	102	24	25	0	0	0	0	0	0	0	95	0	0	40	0	0	0	0	0	181
+ASV26:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	356	0	0	71	165	871	154	0	258	0	616	110	0	0	0	134	0	0	0	5	85	0	6	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	368
+ASV27:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	346	0	0	86	183	444	409	0	303	0	946	273	0	0	0	378	0	0	0	0	148	0	0	0	0	0	0	0	0	0	82	0	0	0	0	0	0	0	0	170
+ASV28:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	337	0	0	59	74	364	182	17	89	0	196	109	0	15	0	104	0	6	0	0	164	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	178
+ASV29:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	439	0	0	0	0	0	0	0	0	0
+ASV30:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	270	0	0	118	76	86	21	0	299	0	286	116	0	0	0	312	0	0	0	0	0	0	0	0	0	0	0	0	0	0	398	0	0	0	0	0	0	0	0	175
+ASV31:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	255	0	0	76	78	504	417	19	191	0	95	179	0	0	0	117	0	0	0	0	99	0	12	0	0	0	0	0	0	0	51	0	0	80	0	0	0	0	0	120
+ASV32:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus_apodemi(AJ871178)	219	86	0	0	205	607	401	222	0	473	1400	362	0	1653	0	73	0	236	275	743	259	287	130	0	0	0	0	0	0	0	201	0	0	387	0	248	0	114	930	236
+ASV33:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Eubacteriaceae;g__Eubacterium;s__NA	200	13	0	35	33	0	0	60	65	0	62	39	0	0	0	0	0	0	0	0	175	0	0	0	0	0	0	0	0	0	79	0	0	0	0	0	0	0	0	0
+ASV34:p__Tenericutes;c__Mollicutes;o__Anaeroplasmatales;f__Anaeroplasmataceae;g__Anaeroplasma;s__NA	185	0	0	23	9	6	478	0	12	0	262	0	0	0	0	0	0	0	0	0	6	0	80	0	0	0	0	0	0	0	117	0	0	37	0	0	0	0	0	23
+ASV35:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	180	0	0	0	111	351	195	447	131	18	283	157	0	154	0	109	0	0	22	37	112	96	176	0	0	0	0	0	0	0	104	0	0	117	0	0	0	103	87	130
+ASV36:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	178	0	0	30	0	98	107	0	80	0	206	159	0	0	0	77	0	0	0	0	249	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	15
+ASV37:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	165	0	0	64	0	0	370	1341	0	0	71	0	0	0	0	0	0	36	0	0	145	0	708	0	0	0	0	0	0	0	79	0	0	0	0	28	0	284	0	0
+ASV38:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_uniformis(AB050110)	160	249	0	76	56	437	0	2058	0	337	0	97	0	193	0	0	0	388	722	627	228	2045	623	0	0	0	0	0	0	0	528	0	0	252	0	338	0	430	946	0
+ASV39:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	142	0	0	72	34	152	288	0	186	0	212	281	0	0	0	216	0	0	0	0	192	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	151
+ASV40:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	132	0	0	30	50	149	118	54	79	0	55	123	0	0	0	47	0	0	0	0	128	0	0	0	0	0	0	0	0	0	43	0	0	75	0	0	0	0	0	46
+ASV41:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	124	0	0	23	194	354	526	0	77	0	58	137	0	0	0	135	0	0	0	0	335	0	19	0	0	0	0	0	0	0	153	0	0	75	0	0	0	0	0	374
+ASV42:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	121	0	0	59	0	251	313	0	147	0	20	467	0	0	0	464	0	0	0	0	308	0	111	0	0	0	0	0	0	0	146	0	0	101	0	202	0	68	0	141
+ASV43:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	120	0	0	88	0	104	138	43	0	57	48	260	0	0	0	128	0	47	0	0	0	0	0	0	0	0	0	0	0	0	159	0	0	177	0	101	0	0	0	0
+ASV44:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	120	0	0	0	75	0	55	0	0	0	112	156	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	119	0	0	0	0	0	106
+ASV45:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	119	0	0	0	0	163	129	0	170	0	0	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV46:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	115	0	0	0	65	0	0	0	0	0	69	65	0	0	0	272	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV47:p__Proteobacteria;c__Deltaproteobacteria;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Desulfovibrio;s__NA	114	0	0	223	725	98	447	20	445	154	254	1180	0	0	0	265	0	19	0	0	39	0	44	0	0	0	0	0	0	0	94	0	0	252	0	86	0	0	0	206
+ASV48:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes_sp.(JF824799)	113	0	0	24	0	30	0	80	0	33	33	38	0	71	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	21
+ASV49:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV50:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	110	307	0	0	99	479	100	1003	108	298	91	195	0	322	0	92	0	998	827	1878	322	4310	1025	0	0	0	0	0	0	0	0	0	0	1475	0	1149	0	763	2695	0
+ASV51:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	104	0	0	0	0	104	84	0	35	0	95	49	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV52:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__NA;s__NA	103	22	0	30	52	66	118	10	109	0	174	187	0	244	0	49	0	0	0	25	132	0	11	0	0	0	0	0	0	0	0	0	0	133	0	15	0	7	5	71
+ASV53:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	97	0	0	0	0	60	0	0	0	0	109	0	0	0	0	52	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	205	0	0	0	66	145	0
+ASV54:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	97	0	0	0	21	56	65	0	0	0	52	30	0	0	0	62	0	0	0	0	0	55	44	0	0	0	0	0	0	0	26	0	0	61	0	0	0	0	0	0
+ASV55:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	96	0	0	52	85	223	109	39	105	0	314	153	0	0	0	75	0	0	0	0	106	0	18	0	0	0	0	0	0	0	258	0	0	0	0	0	0	0	0	135
+ASV56:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__Prevotella_copri(AB064923)	93	27	0	34	0	26	49	25	56	0	0	38	0	24	0	32	0	28	48	53	66	51	107	0	0	0	0	0	0	0	54	0	0	52	0	45	0	52	55	34
+ASV57:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	93	0	0	0	0	10	39	0	0	0	34	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	4
+ASV58:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__NA;s__NA	90	0	0	0	0	0	0	0	0	0	0	0	0	80	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV59:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	90	0	0	38	0	322	137	0	73	0	0	76	0	0	0	195	0	0	0	0	397	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	88
+ASV60:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus_oris(X94229)	89	0	0	0	96	100	0	0	73	0	143	0	0	0	0	0	0	0	0	0	140	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68
+ASV61:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	87	0	0	0	0	110	87	0	0	0	0	0	0	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV62:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Roseburia;s__NA	84	0	0	0	244	106	42	0	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV63:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_thetaiotaomicron(AE015928)	84	1414	0	0	0	0	54	5111	0	5090	22	118	0	4828	0	0	0	479	787	369	0	2553	572	0	0	0	0	0	0	0	0	0	0	63	0	221	0	177	96	0
+ASV64:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	82	0	0	0	15	87	45	33	63	0	68	40	0	18	0	88	0	0	0	0	75	11	0	0	0	0	0	0	0	0	66	0	0	70	0	0	0	0	0	189
+ASV65:p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__Helicobacter_hepaticus(U07574)	81	133	0	0	58	131	83	60	0	48	58	70	0	69	0	84	0	211	0	43	38	145	120	0	0	0	0	0	0	0	124	0	0	0	0	134	0	0	390	23
+ASV66:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	80	0	0	0	0	0	12	0	0	0	13	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	30	0	0	0	0	0	44
+ASV67:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Faecalibacterium;s__Faecalibacterium_prausnitzii(AJ413954)	74	35	0	0	0	0	50	0	40	32	0	0	0	43	0	0	0	30	0	51	0	49	90	0	0	0	0	0	0	0	55	0	0	58	0	60	0	45	52	0
+ASV68:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	71	0	0	0	130	0	0	0	170	0	0	0	0	0	0	74	0	78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	788	0	120	0	0	0	0
+ASV69:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Kandleria;s__NA	71	0	0	0	0	220	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0
+ASV70:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV71:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	70	0	0	0	179	0	163	0	0	0	0	289	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	72	0	0	0	0	0	0
+ASV72:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_stercoris(X83953)	70	45	0	0	0	0	0	0	30	47	0	0	0	34	0	23	0	20	34	72	0	52	73	0	0	0	0	0	0	0	36	0	0	35	0	33	0	48	76	0
+ASV73:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV74:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	69	0	0	0	40	175	321	0	0	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	142
+ASV75:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	69	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV76:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	68	0	0	81	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV77:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Flavonifractor;s__NA	67	0	0	0	0	0	214	0	40	0	0	431	0	0	0	134	0	0	0	0	0	0	416	0	0	0	0	0	0	0	0	0	0	610	0	0	0	0	0	136
+ASV78:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	67	0	0	0	0	271	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV79:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Sporobacter;s__NA	67	0	0	0	0	0	81	0	27	24	18	221	0	0	0	107	0	0	0	0	81	0	32	0	0	0	0	0	0	0	0	0	0	284	0	0	0	0	0	19
+ASV80:p__Proteobacteria;c__Deltaproteobacteria;o__NA;f__NA;g__NA;s__NA	63	0	0	0	32	94	113	37	0	0	62	60	0	0	0	103	0	0	0	0	0	0	0	0	0	0	0	0	0	0	159	0	0	65	0	0	0	0	0	60
+ASV81:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__NA;g__NA;s__NA	63	0	0	0	46	34	31	0	60	0	73	80	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44
+ASV82:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	62	0	0	0	119	79	36	0	19	0	38	117	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35
+ASV83:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	61	0	0	333	0	0	342	0	0	0	52	0	0	0	0	56	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59
+ASV84:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	60	0	0	0	77	177	0	47	0	0	57	66	0	0	0	78	0	0	0	0	42	0	0	0	0	0	0	0	0	0	121	0	0	0	0	0	0	0	0	0
+ASV85:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	59	0	0	0	90	0	101	0	0	0	76	196	0	0	0	199	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	117
+ASV86:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	59	0	0	0	0	601	0	45	98	0	0	0	0	0	0	82	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	31	116
+ASV87:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	57	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV88:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	56	0	0	0	206	249	344	0	59	0	98	0	0	0	0	840	0	87	0	0	0	83	109	0	0	0	0	0	0	0	0	0	0	236	0	286	0	109	42	235
+ASV89:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	55	0	0	0	0	111	240	0	0	0	0	107	0	0	0	0	0	0	0	0	0	0	216	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV90:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Faecalibacterium;s__Faecalibacterium_prausnitzii(AJ413954)	53	43	0	0	0	0	0	0	45	44	0	0	0	26	0	0	0	46	0	68	0	31	64	0	0	0	0	0	0	0	0	0	0	59	0	42	0	55	37	0
+ASV91:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	52	0	0	0	0	0	28	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV92:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	52	0	0	22	21	60	46	0	54	0	33	40	0	0	0	30	0	0	0	0	90	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37
+ASV93:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	52	0	0	0	99	91	22	65	78	0	0	0	0	0	0	0	0	124	59	0	104	59	113	0	0	0	0	0	0	0	0	0	0	92	0	37	0	57	0	63
+ASV94:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_massiliensis(AY126616)	51	34	0	0	0	0	0	0	0	0	0	0	0	20	0	28	0	0	22	64	0	42	35	0	0	0	0	0	0	0	0	0	0	33	0	23	0	22	39	0
+ASV95:p__Actinobacteria;c__Actinobacteria;o__Bifidobacteriales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium_adolescentis(AP009256)	51	33	0	0	0	0	0	0	41	0	0	26	0	0	0	0	0	27	0	41	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV96:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus_bromii(L76600)	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	28	0	0	44	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	36	0
+ASV97:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	48	0	0	0	0	0	38	0	43	0	0	76	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0
+ASV98:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	47	0	0	0	36	89	43	0	0	0	0	0	0	0	0	144	0	402	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0
+ASV99:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	43	0	0	0	44	49	117	0	0	0	0	0	0	0	0	147	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV100:p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Veillonellaceae;g__Dialister;s__Dialister_invisus(AY162469)	43	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	17	0	0	18	0	0	0	27	29	0
+ASV101:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Butyricicoccus;s__NA	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV102:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_plebeius(AB200217)	40	35	0	12	0	11	0	0	0	19	0	0	0	0	0	0	0	27	29	59	0	0	57	0	0	0	0	0	0	0	0	0	0	36	0	32	0	39	31	0
+ASV103:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	40	0	0	20	30	82	88	40	26	41	23	146	0	0	0	63	0	46	0	0	29	0	0	0	0	0	0	0	0	0	49	0	0	49	0	20	0	62	18	88
+ASV104:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV105:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__Parabacteroides_merdae(AB238928)	39	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	15	61	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	37	0	29	36	20
+ASV106:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	39	0	0	0	72	16	38	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	59	0	0	0	0	0	39
+ASV107:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	38	20	0	0	0	0	20	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0
+ASV108:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__NA	37	20	0	0	0	8	0	10	26	0	0	0	0	12	0	10	0	13	0	27	0	20	0	0	0	0	0	0	0	0	0	0	0	25	0	22	0	12	24	0
+ASV109:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	37	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV110:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	0	0	0	0	0	0
+ASV111:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Faecalibacterium;s__Faecalibacterium_prausnitzii(AJ413954)	37	0	0	0	0	0	0	0	21	19	0	0	0	16	0	0	0	0	0	39	0	21	40	0	0	0	0	0	0	0	13	0	0	24	0	25	0	16	23	0
+ASV112:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47
+ASV113:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	34	0	0	0	29	0	0	0	0	0	0	0	0	0	0	221	0	37	0	0	285	92	0	0	0	0	0	0	0	0	0	0	0	70	0	38	0	63	82	34
+ASV114:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	33	0	0	79	0	71	798	0	76	0	0	58	0	0	0	155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	233
+ASV115:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	32	0	0	0	0	279	35	0	0	0	0	0	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0	0	0	139	0	0	0	0	0	0	0	0	0
+ASV116:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	32	0	0	26	0	13	12	7	0	0	10	20	0	12	0	18	0	14	0	37	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	17	28	12
+ASV117:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__Parabacteroides_goldsteinii(AY974070)	31	50	0	8	11	61	52	106	0	30	10	95	0	17	0	10	0	100	0	104	238	181	61	0	0	0	0	0	0	0	105	0	0	85	0	97	0	96	173	0
+ASV118:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__Odoribacter_splanchnicus(L16496)	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	18	0	0	0	15	0	0
+ASV119:p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__Escherichia/Shigella;s__NA	30	2130	0	0	0	187	16	1178	63	6597	0	11	0	4018	0	0	0	437	1554	1951	23	2487	1585	0	0	0	0	0	0	0	0	0	0	146	0	1989	0	1052	1102	0
+ASV120:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Ruminococcus;s__NA	30	0	0	0	15	113	46	33	0	0	0	44	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV121:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	29	8	0	0	0	34	27	114	18	0	17	26	0	0	0	12	0	13	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	25	0	0	0	7	0	0
+ASV122:p__Verrucomicrobia;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Verrucomicrobiaceae;g__Akkermansia;s__Akkermansia_muciniphila(AY271254)	26	723	0	0	0	0	69	2537	18	1121	0	617	0	1817	0	0	0	124	199	231	0	1160	1632	0	0	0	0	0	0	0	16	0	0	1673	0	1446	0	3314	1513	89
+ASV123:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales Incertae Sedis XIII;g__Anaerovorax;s__NA	24	0	0	0	0	20	0	139	0	0	11	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV124:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	22	0	0	20	145	0	30	15	0	0	28	60	0	0	0	0	0	62	0	0	43	30	47	0	0	0	0	0	0	0	248	0	0	456	0	28	0	0	0	0
+ASV125:p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Sutterellaceae;g__Parasutterella;s__NA	19	92	0	0	13	24	30	253	24	35	20	0	0	190	0	0	0	471	102	82	0	149	211	0	0	0	0	0	0	0	0	0	0	126	0	686	0	154	370	8
+ASV126:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	18	0	0	0	0	0	16	0	23	0	33	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV127:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__NA	17	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV128:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	15	0	0	0	19	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV129:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	13	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	83
+ASV130:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_coprocola(AB200224)	13	20	0	0	0	11	0	0	0	0	0	12	0	12	0	0	0	0	8	46	0	0	22	0	0	0	0	0	0	0	0	0	0	14	0	0	0	23	26	14
+ASV131:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Marinilabiliaceae;g__NA;s__NA	12	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	23	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0
+ASV132:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Sporobacter;s__NA	12	0	0	0	0	0	0	19	0	0	0	55	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0
+ASV133:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV134:p__Proteobacteria;c__Deltaproteobacteria;o__Desulfovibrionales;f__NA;g__NA;s__NA	10	8	0	0	31	15	23	72	0	109	20	41	0	0	0	25	0	41	0	0	0	45	49	0	0	0	0	0	0	0	38	0	0	180	0	131	0	52	29	17
+ASV135:p__Euryarchaeota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__Methanobrevibacter;s__NA	9	0	0	9	0	0	0	0	7	0	0	7	0	7	0	0	0	0	7	17	0	0	15	0	0	0	0	0	0	0	7	0	0	8	0	0	0	14	15	0
+ASV136:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV137:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__NA;g__NA;s__NA	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	0
+ASV138:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Ruminococcus;s__NA	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV139:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV140:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae 1;g__Clostridium sensu stricto;s__Clostridium_perfringens(CP000246)	0	1249	0	0	0	0	0	264	0	2278	0	0	0	2502	0	0	0	150	174	1031	0	351	207	0	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	0
+ASV141:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae;g__Clostridium XI;s__NA	0	1214	0	0	0	0	0	0	0	1306	0	0	0	567	0	0	0	0	0	149	0	0	263	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV142:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Faecalitalea;s__NA	0	866	0	0	0	0	0	135	0	603	0	0	0	2347	0	0	0	1260	322	1636	0	442	1024	0	0	0	0	0	0	0	0	0	0	445	0	3173	0	207	883	0
+ASV143:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	521	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV144:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus;s__NA	0	332	0	0	0	0	0	292	0	479	109	0	0	248	0	0	0	97	253	180	312	396	149	0	0	0	0	0	0	0	0	0	0	437	0	166	0	159	42	0
+ASV145:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_acidifaciens(AB021164)	0	275	0	0	0	413	0	898	0	234	0	0	0	257	0	0	0	828	788	1625	0	4098	878	0	0	0	0	0	0	0	0	0	0	1139	0	1052	0	1764	2315	0
+ASV146:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes_finegoldii(AY643083)	0	152	0	0	0	0	0	262	0	0	0	0	0	0	0	0	0	0	35	0	0	49	55	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0
+ASV147:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae;g__Romboutsia;s__Romboutsia_timonensis(NR_144740.1)	0	138	0	0	0	0	0	0	0	394	0	0	0	0	0	0	0	0	0	67	0	0	287	0	0	0	0	0	0	0	0	0	0	634	0	526	0	597	52	0
+ASV148:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__NA	0	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	159	46	0	0	97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV149:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae 1;g__Clostridium sensu stricto;s__NA	0	87	0	0	0	0	0	294	0	1105	0	0	0	0	0	0	0	130	104	34	0	1117	625	0	0	0	0	0	0	0	0	0	0	172	0	585	0	322	35	0
+ASV150:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__NA	0	70	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV151:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	0	0	0	0	0	0	0	0	0	119	0	0	0	0	0	0
+ASV152:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Turicibacter;s__NA	0	31	0	0	0	0	0	71	0	149	0	0	0	185	0	0	0	61	54	184	0	257	141	0	0	0	0	0	0	0	0	0	0	3138	0	287	0	290	229	0
+ASV153:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Ruminococcus;s__Ruminococcus_champanellensis(AJ515913)	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV154:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Roseburia;s__Roseburia_intestinalis(AJ312385)	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV155:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Anaerostipes;s__Anaerostipes_hadrus(FR749934)	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0
+ASV156:p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Acidaminococcaceae;g__Acidaminococcus;s__Acidaminococcus_intestini(AF473835)	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	23	27	0
+ASV157:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Clostridium XVIII;s__NA	0	15	0	0	0	0	0	0	26	0	0	0	0	13	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0
+ASV158:p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Sutterellaceae;g__Parasutterella;s__"Parasutterella_excrementihominis(AB370250)	0	8	0	10	0	0	0	9	20	0	0	0	0	0	0	0	0	14	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	25	0	0	0	18	15	0
+ASV159:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV160:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV161:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae 1;g__Clostridium sensu stricto;s__NA	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV162:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV163:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	7940	0	0	0	0	0	0	0	0	0	5118	0	0	0	0	0	0	0	0	0	0	2	95	3	0	426	2081	0	0	902	16	0	350	0	0	0	0	0
+ASV164:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	1995	0	0	0	0	0	0	0	0	0	3151	0	0	0	4	0	0	0	0	0	0	313	576	77	0	3643	1231	182	0	4105	248	0	1096	0	210	0	0	0
+ASV165:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	1049	0	0	0	0	0	0	0	0	0	1107	0	114	0	46	0	0	0	0	0	0	46	479	22	0	416	350	0	0	374	137	0	63	0	0	0	0	0
+ASV166:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	781	0	0	0	0	0	0	0	0	0	914	0	80	0	0	0	0	0	0	0	0	0	397	0	0	336	331	0	0	279	89	0	51	0	0	0	0	0
+ASV167:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	294	0	0	0	0	0	0	0	0	0	124	0	3	0	34	0	0	0	0	0	0	3	88	7	0	53	374	0	0	570	28	0	876	0	5	0	0	0
+ASV168:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	201	0	0	0	0	0	0	0	0	0	147	0	763	0	1875	0	0	0	0	0	0	1039	7	1091	914	62	26	773	0	38	907	0	18	0	1792	0	0	0
+ASV169:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	180	0	0	0	0	0	0	0	0	0	179	0	316	0	34	0	0	0	0	0	0	28	145	87	43	0	0	95	0	305	51	0	48	0	61	0	0	0
+ASV170:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV171:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	122	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	97	0	14	40	136	46	0	0	0	0	421	0	0	0	0	0
+ASV172:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	86	0	0	0	0	0	0	0	0	0	184	0	12	0	0	0	0	0	0	0	0	28	257	0	0	684	423	0	0	556	13	0	10	0	0	0	0	0
+ASV173:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	76	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	222	0	0	56	604	0	0	366	0	0	395	0	0	0	0	0
+ASV174:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	74	0	0	0	0	0	0	0	0	0	121	0	30	0	0	0	0	0	0	0	0	0	0	0	0	258	0	0	0	59	0	0	42	0	0	0	0	0
+ASV175:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	476	0	0	93	1632	0	0	829	0	0	692	0	0	0	0	0
+ASV176:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	60	0	0	0	0	0	0	0	0	0	13	0	133	0	31	0	0	0	0	0	0	114	10	21	16	41	17	28	0	5	190	0	0	0	32	0	0	0
+ASV177:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	57	0	0	0	0	0	0	0	0	0	589	0	438	0	0	0	0	0	0	0	0	49	53	0	0	146	396	0	0	322	497	0	0	0	20	0	0	0
+ASV178:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	55	0	0	0	0	0	0	0	0	0	17	0	99	0	425	0	0	0	0	0	0	46	490	139	154	90	324	415	0	631	155	0	52	0	412	0	0	0
+ASV179:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	52	0	0	0	0	0	0	0	0	0	91	0	0	0	0	0	0	0	0	0	0	1651	0	0	0	0	0	0	0	0	1967	0	0	0	0	0	0	0
+ASV180:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV181:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	49	0	0	0	0	0	0	0	0	0	79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	146	10	0	0	35	0	0	19	0	0	0	0	0
+ASV182:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	47	0	0	0	0	0	0	0	0	0	40	0	41	0	3	0	0	0	0	0	0	18	0	0	3	20	12	0	0	0	25	0	0	0	7	0	0	0
+ASV183:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	47	0	0	0	0	0	0	0	0	0	27	0	0	0	59	0	0	0	0	0	0	0	39	0	62	26	0	26	0	0	14	0	9	0	0	0	0	0
+ASV184:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	46	0	0	0	0	0	0	0	0	0	81	0	131	0	72	0	0	0	0	0	0	86	68	61	37	167	19	17	0	9	29	0	6	0	38	0	0	0
+ASV185:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	44	0	0	0	0	0	0	0	0	0	18	0	5267	0	350	0	0	0	0	0	0	151	50	69	28	81	0	39	0	9	45	0	0	0	150	0	0	0
+ASV186:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	42	0	0	0	0	0	0	0	0	0	0	0	2299	0	5548	0	0	0	0	0	0	2707	0	1242	478	0	0	625	0	0	5486	0	0	0	1458	0	0	0
+ASV187:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV188:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	41	0	0	0	0	0	0	0	0	0	20	0	0	0	444	0	0	0	0	0	0	203	92	100	143	0	0	127	0	12	403	0	48	0	394	0	0	0
+ASV189:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	40	0	0	0	0	0	0	0	0	0	0	0	168	0	84	0	0	0	0	0	0	0	0	187	276	40	183	332	0	567	0	0	73	0	161	0	0	0
+ASV190:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	38	0	0	0	0	0	0	0	0	0	33	0	188	0	199	0	0	0	0	0	0	9	0	0	0	0	0	45	0	0	0	0	0	0	50	0	0	0
+ASV191:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	37	0	0	0	0	0	0	0	0	0	28	0	187	0	130	0	0	0	0	0	0	130	10	111	34	26	31	41	0	36	165	0	19	0	111	0	0	0
+ASV192:p__Firmicutes;c__Bacilli;o__NA;f__NA;g__NA;s__NA	0	0	34	0	0	0	0	0	0	0	0	0	163	0	0	0	0	0	0	0	0	0	0	0	148	0	0	0	0	0	0	0	0	0	99	0	0	0	0	0
+ASV193:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV194:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	27	0	0	0	0	0	0	0	0	0	686	0	0	0	0	0	0	0	0	0	0	0	1732	0	0	36	446	0	0	256	0	0	1363	0	0	0	0	0
+ASV195:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	25	0	0	0	0	0	0	0	0	0	0	0	391	0	432	0	0	0	0	0	0	210	0	182	124	21	0	135	0	0	161	0	0	0	180	0	0	0
+ASV196:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	105	54	0	0	96	0	0	0	0	0	0	160	0	0	0
+ASV197:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	23	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	853	0	0	0	0	0	0	0	0
+ASV198:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	21	0	0	0	0	0	0	0	0	0	109	0	0	0	0	0	0	0	0	0	0	0	1780	0	0	0	646	0	0	90	0	0	1122	0	0	0	0	0
+ASV199:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	20	0	0	0	0	0	0	0	0	0	0	0	22	0	39	0	0	0	0	0	0	45	0	62	15	3	0	34	0	7	9	0	0	0	36	0	0	0
+ASV200:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	19	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	368	3	0	233	901	0	0	657	0	0	1106	0	0	0	0	0
+ASV201:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	18	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	9	0	0	118	86	0	0	17	0	0	58	0	0	0	0	0
+ASV202:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	17	0	0	0	0	0	0	0	0	0	224	0	645	0	244	0	0	0	0	0	0	113	795	165	24	835	182	67	0	346	166	0	399	0	339	0	0	0
+ASV203:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	17	0	0	0	0	0	0	0	0	0	15	0	473	0	99	0	0	0	0	0	0	68	6	124	37	41	14	156	0	0	117	0	0	0	65	0	0	0
+ASV204:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	17	0	0	0	0	0	0	0	0	0	0	0	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV205:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	16	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	209	0	0	36	185	0	0	46	0	0	296	0	0	0	0	0
+ASV206:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	16	0	0	0	0	0	0	0	0	0	10	0	133	0	87	0	0	0	0	0	0	46	0	43	43	26	15	0	0	31	59	0	7	0	21	0	0	0
+ASV207:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	15	0	0	0	0	0	0	0	0	0	19	0	0	0	38	0	0	0	0	0	0	30	26	85	0	11	0	0	0	0	9	0	31	0	82	0	0	0
+ASV208:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	14	0	0	0	0	0	0	0	0	0	19	0	19	0	10	0	0	0	0	0	0	9	8	8	0	6	65	0	0	0	5	0	31	0	6	0	0	0
+ASV209:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV210:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	12	0	0	0	0	0	0	0	0	0	9	0	15	0	30	0	0	0	0	0	0	15	128	30	0	34	58	10	0	25	13	0	107	0	64	0	0	0
+ASV211:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	11	0	0	0	0	0	0	0	0	0	3	0	225	0	19	0	0	0	0	0	0	95	0	58	13	33	0	10	0	5	374	0	0	0	25	0	0	0
+ASV212:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	10	0	0	0	0	0	0	0	0	0	10	0	5	0	8	0	0	0	0	0	0	2	16	0	11	0	14	4	0	20	6	0	20	0	5	0	0	0
+ASV213:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	10	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	19	59	7	0	7	0	0	0	0	45	0	3	0	3	0	0	0
+ASV214:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	9	0	0	0	0	0	0	0	0	0	20	0	85	0	102	0	0	0	0	0	0	255	15	584	509	16	0	513	0	0	0	0	0	0	607	0	0	0
+ASV215:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV216:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	8	0	0	0	0	0	0	0	0	0	8	0	0	0	50	0	0	0	0	0	0	58	0	85	31	16	11	66	0	8	61	0	0	0	24	0	0	0
+ASV217:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	7	0	0	0	0	0	0	0	0	0	0	0	71	0	41	0	0	0	0	0	0	69	0	22	0	0	0	0	0	0	46	0	0	0	9	0	0	0
+ASV218:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	7	0	0	0	0	0	0	0	0	0	11	0	169	0	79	0	0	0	0	0	0	27	0	81	0	0	0	0	0	0	12	0	0	0	9	0	0	0
+ASV219:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	7	0	0	0	0	0	0	0	0	0	0	0	64	0	45	0	0	0	0	0	0	46	0	38	46	0	0	33	0	0	14	0	0	0	38	0	0	0
+ASV220:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	31	41	12	0	0	115	0	0	0	0	12	0	84	0	0	0
+ASV221:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	6	0	0	0	0	0	0	0	0	0	6	0	39	0	22	0	0	0	0	0	0	183	0	112	45	26	0	36	0	4	66	0	0	0	72	0	0	0
+ASV222:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV223:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	6	0	0	0	0	0	0	0	0	0	7	0	6	0	18	0	0	0	0	0	0	49	34	58	17	18	67	9	0	44	46	0	20	0	31	0	0	0
+ASV224:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	6	0	0	0	0	0	0	0	0	0	3910	0	0	0	0	0	0	0	0	0	0	0	1691	0	0	792	3286	0	0	2802	0	0	4926	0	0	0	0	0
+ASV225:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	5	0	0	0	0	0	0	0	0	0	17	0	97	0	19	0	0	0	0	0	0	149	9	56	10	0	5	0	0	0	191	0	5	0	23	0	0	0
+ASV226:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	5	0	0	0	0	0	0	0	0	0	0	0	24	0	53	0	0	0	0	0	0	0	967	0	0	0	455	9	0	112	0	0	909	0	43	0	0	0
+ASV227:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV228:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	3	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	8	0	0	194	3	0	151	0	10	0	0	0
+ASV229:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	2163	0	0	1897	0	0	0	0	8206	0	0	0	0	0	0	0	0	0	0	648	0	0	0	0	0	0	0	4512	0	0	0	0	0	0	0	0	0
+ASV230:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	1040	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV231:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	303	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV232:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	121	229	76	113	0	0	0	41	352	0	0	0	97	0	0	0	0	0	33	66	0	0	0	0	0	0	0	321	0	0	487	0	0	0	67	0	0
+ASV233:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Lachnospiracea incertae sedis;s__NA	0	0	0	119	44	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV234:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	101	0	35	43	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV235:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	53	75	123	0	0	116	0	100	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV236:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Butyricicoccus;s__NA	0	0	0	49	221	85	131	0	0	0	0	293	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	122	0	0	484	0	0	0	0	0	0
+ASV237:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Lachnospiracea incertae sedis;s__NA	0	0	0	43	0	60	79	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56
+ASV238:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Anaerotruncus;s__NA	0	0	0	39	40	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV239:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	35	26	0	72	0	0	0	0	53	0	0	0	30	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62
+ASV240:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	30	0	0	44	0	40	12	0	106	0	0	0	17	0	0	12	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0
+ASV241:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus_oris(X94229)	0	0	0	26	0	0	241	0	0	0	0	392	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	172	0	0	0	0	0	0	0	0	0
+ASV242:p__Proteobacteria;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	24	42	232	239	0	35	0	77	0	0	0	0	142	0	0	0	0	92	0	0	0	0	0	0	0	0	0	89	0	0	68	0	0	0	0	0	186
+ASV243:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Flavonifractor;s__NA	0	0	0	19	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV244:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Faecalibacterium;s__NA	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV245:p__Deferribacteres;c__Deferribacteres;o__Deferribacterales;f__Deferribacteraceae;g__Mucispirillum;s__Mucispirillum_schaedleri(AY387670)	0	0	0	11	63	6	8	0	0	100	8	17	0	0	0	0	0	194	14	11	0	32	99	0	0	0	0	0	0	0	32	0	0	224	0	196	0	69	41	0
+ASV246:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV247:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Faecalitalea;s__NA	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV248:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	2442	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	295	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV249:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	1390	0	0	0	0	0	0	0	0	0	0	96	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV250:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	790	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV251:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	577	0	295	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV252:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	548	0	943	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV253:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	506	0	0	0	154	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV254:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	506	0	0	0	0	0	25	133	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	139	0	0	0	0	0	0	0	0	0
+ASV255:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	489	0	257	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV256:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	427	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	800
+ASV257:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	375	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV258:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	349	185	346	0	0	0	163	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV259:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	309	220	0	0	255	0	0	0	0	0	0	102	0	0	0	0	147	0	0	0	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	187
+ASV260:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	300	0	0	0	36	0	0	53	0	0	0	438	0	0	0	0	0	0	0	0	0	0	0	0	0	0	177	0	0	334	0	0	0	0	0	246
+ASV261:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	280	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV262:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	240	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV263:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	219	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV264:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Sporobacter;s__NA	0	0	0	0	203	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	390	0	0	0	0	0	0	0	0	0
+ASV265:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	178	92	59	0	0	0	0	69	0	0	0	147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0
+ASV266:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	176	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0
+ASV267:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	164	212	140	0	0	0	31	151	0	0	0	338	0	68	0	0	51	0	0	0	0	0	0	0	0	0	125	0	0	75	0	59	0	0	40	0
+ASV268:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	162	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV269:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	160	26	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV270:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV271:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	146	278	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV272:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV273:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	139	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV274:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	128	0	25	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV275:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Anaerotruncus;s__NA	0	0	0	0	112	0	34	65	0	0	0	0	0	0	0	57	0	77	0	0	0	0	0	0	0	0	0	0	0	0	244	0	0	0	0	84	0	24	0	0
+ASV276:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	112	116	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV277:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	0	0	0	0	105	0	0	0	53	283	64	0	0	0	0	43	0	70	0	0	276	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV278:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	103	74	0	0	0	0	0	209	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	195	0	0	0	0	0	0	0	0	0
+ASV279:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	95	0	69	0	0	10	0	123	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	178	0	0	466	0	0	0	0	0	173
+ASV280:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	94	0	0	0	0	0	187	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV281:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	90	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0
+ASV282:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	84	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0
+ASV283:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	80	0	0	0	0	0	46	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV284:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV285:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	76	0	51	0	0	0	0	267	0	0	0	147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	162	160	71
+ASV286:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	73	0	0	0	62	0	0	0	0	0	0	100	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36
+ASV287:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	72	36	0	0	0	0	51	0	0	0	0	79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0	0	0	0	0
+ASV288:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0
+ASV289:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	70	84	34	0	0	0	45	68	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV290:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	70	0	0	0	0	0	150	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	163	0	0	0	0	0	0	0	0	0
+ASV291:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Flavonifractor;s__NA	0	0	0	0	69	0	0	0	0	118	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV292:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	67	379	1480	0	388	0	0	0	0	0	0	1838	0	0	0	0	466	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1375
+ASV293:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV294:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV295:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	61	0	49	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV296:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	543	0	0	0	0
+ASV297:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV298:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	0	0	0	0	49	0	0	0	33	0	225	0	0	0	0	53	0	0	0	0	104	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV299:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV300:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__NA	0	0	0	0	48	0	0	93	0	50	31	0	0	87	0	0	0	88	146	78	0	162	67	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	26	0
+ASV301:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	45	0	0	0	0	0	19	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV302:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	41	0	72	265	0	0	0	0	0	0	0	0	0	1107	135	128	0	511	242	0	0	0	0	0	0	0	0	0	0	353	0	0	0	0	63	0
+ASV303:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	41	66	36	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV304:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Lachnospiracea incertae sedis;s__NA	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV305:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	36	0	13	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	7	0	0	0	0
+ASV306:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	88	0	0	0	0	261	0	0	0	0
+ASV307:p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiales incertae sedis;g__NA;s__NA	0	0	0	0	33	18	21	0	0	23	27	0	0	0	0	24	0	28	0	0	15	0	0	0	0	0	0	0	0	0	30	0	0	16	0	26	0	24	34	17
+ASV308:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	31	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0
+ASV309:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	31	0	0	0	55	0	105	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60
+ASV310:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	28	0	0	22	0	0	41	0	0	0	0	0	0	0	0	0	88	0	0	0	0	0	0	0	0	0	0	0	0	365	0	0	0	0	0	53
+ASV311:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	27	221	117	24	104	0	0	0	0	0	0	79	0	232	0	0	125	69	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	32
+ASV312:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Lachnospiracea incertae sedis;s__NA	0	0	0	0	24	0	0	0	0	0	0	191	0	0	0	500	0	0	0	0	152	0	0	0	0	0	0	0	0	0	0	0	0	308	0	0	0	0	0	349
+ASV313:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	21	0	0	0	0	0	0	8	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV314:p__Proteobacteria;c__Deltaproteobacteria;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Desulfovibrio;s__NA	0	0	0	0	19	0	0	128	0	0	0	0	0	0	0	30	0	0	19	0	0	0	28	0	0	0	0	0	0	0	141	0	0	180	0	29	0	0	18	0
+ASV315:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV316:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV317:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Anaerotruncus;s__NA	0	0	0	0	18	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV318:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	18	0	34	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV319:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	17	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	9	0	0	0	0
+ASV320:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV321:p__Actinobacteria;c__Actinobacteria;o__Coriobacteriales;f__Coriobacteriaceae;g__Senegalimassilia;s__NA	0	0	0	0	14	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV322:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0
+ASV323:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV324:p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Sutterellaceae;g__Parasutterella;s__NA	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV325:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Dorea;s__NA	0	0	0	0	0	336	0	0	53	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV326:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	280	176	38	89	0	0	0	0	0	0	257	0	0	0	0	0	0	0	0	0	0	0	0	0	0	133	0	0	115	0	0	0	0	0	0
+ASV327:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	196	635	0	144	0	0	0	0	0	0	786	0	0	0	0	188	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV328:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	191	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV329:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	172	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56
+ASV330:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	146	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV331:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	141	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV332:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	140	121	0	0	0	0	165	0	0	0	166	0	0	0	0	0	0	93	0	0	0	0	0	0	0	71	0	0	209	0	0	0	0	0	0
+ASV333:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	134	0	0	0	0	0	0	0	0	0	160	0	0	0	0	125	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV334:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	134	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	287	0	0	0	0	44	0
+ASV335:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Butyrivibrio;s__NA	0	0	0	0	0	117	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV336:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	94	231	0	0	0	342	657	0	0	0	230	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV337:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	85	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0
+ASV338:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	67	114	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV339:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	66	0	0	0	0	0	124	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	125	0	0	107	0	0	0	0	0	0
+ASV340:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	65	0	21	0	0	0	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	135	0	0	0	39
+ASV341:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69
+ASV342:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	59	0	0	0	0	126	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV343:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	0	55	180	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	88	0	0	0	0	0	0
+ASV344:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	54	0	0	0	0	0	40	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35
+ASV345:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Butyrivibrio;s__NA	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV346:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	53	97	0	0	0	171	341	0	0	0	142	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV347:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	41	0	0	0	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	0	0	0	0	0	0	0	0
+ASV348:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	37	28	0	18	0	0	45	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0
+ASV349:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65
+ASV350:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7
+ASV351:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	29	42	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13
+ASV352:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Eisenbergiella;s__NA	0	0	0	0	0	29	121	0	0	0	23	0	0	0	0	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV353:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	22	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV354:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__NA	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV355:p__Actinobacteria;c__Actinobacteria;o__Bifidobacteriales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium_adolescentis(AP009256)	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	41	0	33	55	0
+ASV356:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV357:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Erysipelotrichaceae incertae sedis;s__NA	0	0	0	0	0	9	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV358:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales Incertae Sedis XIII;g__Anaerovorax;s__NA	0	0	0	0	0	7	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0
+ASV359:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV360:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV361:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV362:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV363:p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Acidaminococcaceae;g__Succiniclasticum;s__NA	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV364:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV365:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	466	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV366:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus_intestinalis(AJ306299)	0	0	0	0	0	0	191	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	0	0	0
+ASV367:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	186	0	0	51	0	688	0	0	0	251	0	362	0	0	0	0	56	0	0	0	0	0	0	0	0	0	0	2981	0	312	0	88	0	103
+ASV368:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	126	0	0	0	393	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV369:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	121	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV370:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	118	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	173	0	0	0	0	0	0
+ASV371:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	108	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV372:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Dorea;s__NA	0	0	0	0	0	0	103	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV373:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	82	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV374:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Roseburia;s__Roseburia_faecis(AY305310)	0	0	0	0	0	0	81	0	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV375:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	71	0	0	72	147	0	0	305	0	0	0	0	54	139	0	53	0	0	0	0	0	0	0	0	0	0	0	83	0	42	0	0	164	47
+ASV376:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	0	0	65	0	0	28	16	407	0	0	0	74	0	0	11	0	0	0	38	0	0	0	0	0	0	0	0	0	0	76	0	105	0	0	0	12
+ASV377:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	62	0	0	0	0	114	0	0	0	111	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0
+ASV378:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	61	0	56	0	0	572	0	0	0	0	0	92	0	0	32	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV379:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV380:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV381:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	49	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	81
+ASV382:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	48	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV383:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV384:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV385:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Sporobacter;s__NA	0	0	0	0	0	0	44	0	0	0	0	26	0	0	0	45	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	39	0	15	0	67
+ASV386:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV387:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV388:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__NA;s__NA	0	0	0	0	0	0	31	0	0	0	36	0	0	0	0	0	0	0	0	0	118	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV389:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV390:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV391:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV392:p__Proteobacteria;c__Alphaproteobacteria;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV393:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	0	0	29	0	0	0	0	63	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV394:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV395:p__Actinobacteria;c__Actinobacteria;o__Coriobacteriales;f__Coriobacteriaceae;g__Enterorhabdus;s__Enterorhabdus_caecimuris(DQ789120)	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV396:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15
+ASV397:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	0	22	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0
+ASV398:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Sporobacter;s__NA	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV399:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	0	0	0	0	0	0	20	0	0	20	0	58	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0
+ASV400:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Fusicatenibacter;s__Fusicatenibacter_saccharivorans(AB698910)	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV401:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV402:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV403:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV404:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV405:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV406:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__NA;s__NA	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV407:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV408:p__Bacteroidetes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV409:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV410:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV411:p__Proteobacteria;c__Deltaproteobacteria;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Desulfovibrio;s__NA	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV412:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	569	0	0	0	0	0	0	0	0	0	463	0	0	0	587	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV413:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__Parabacteroides_distasonis(AB238922)	0	0	0	0	0	0	0	317	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV414:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Blautia;s__Blautia_producta(X94966)	0	0	0	0	0	0	0	291	0	0	0	0	0	0	0	0	0	0	235	0	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV415:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Clostridium XVIII;s__NA	0	0	0	0	0	0	0	238	0	117	0	0	0	217	0	0	0	458	0	61	0	162	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV416:p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas_aeruginosa(HE978271)	0	0	0	0	0	0	0	219	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV417:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	116	0	60	0	0	0	0	0	0	0	0	0	0	0	0	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV418:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	0	0	88	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV419:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__NA;s__NA	0	0	0	0	0	0	0	72	0	0	57	0	0	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	19	0
+ASV420:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV421:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Anaerosporobacter;s__Anaerosporobacter_mobilis(AY534872)	0	0	0	0	0	0	0	59	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV422:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	304	0	0	0	0	0	0
+ASV423:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV424:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV425:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	37	0	48	0	0	0	0	0	0	0	861	0	0	0	258	0	0	0	0	0	0	0	0	0	0	0	1769	0	0	0	0	0	62
+ASV426:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus_acidominimus(JX986969)	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV427:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0
+ASV428:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV429:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV430:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV431:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Erysipelotrichaceae incertae sedis;s__NA	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV432:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	8	0	0	0	378	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV433:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV434:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV435:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	196	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	233	0	0	0	0	0	0	0	0	0
+ASV436:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	174	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV437:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	128	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV438:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	116	0	0	0	0	0	0	510	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV439:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_uniformis(AB050110)	0	0	0	0	0	0	0	0	96	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV440:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45
+ASV441:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54
+ASV442:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	105
+ASV443:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	53	0	10	0	0	0	0	133	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	91	0	0	0	0	0	0
+ASV444:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	0	0	0	0	47	0	0	122	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV445:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	204	0	0	0	0	0	0
+ASV446:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Anaerostipes;s__NA	0	0	0	0	0	0	0	0	44	0	0	521	0	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV447:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	24	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV448:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae 1;g__Clostridium sensu stricto;s__NA	0	0	0	0	0	0	0	0	36	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV449:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	22	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV450:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Sporobacter;s__NA	0	0	0	0	0	0	0	0	11	13	11	0	0	0	0	15	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	147	0	0	0	0	0	52
+ASV451:p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Acidaminococcaceae;g__Phascolarctobacterium;s__NA	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV452:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus;s__Enterococcus_saccharolyticus(AF061004)	0	0	0	0	0	0	0	0	0	912	0	0	0	492	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV453:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae;g__Romboutsia;s__Romboutsia_timonensis(NR_144740.1)	0	0	0	0	0	0	0	0	0	145	0	0	0	63	0	0	0	116	39	0	0	178	0	0	0	0	0	0	0	0	0	0	0	1200	0	562	0	596	0	0
+ASV454:p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV455:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__NA	0	0	0	0	0	0	0	0	0	129	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV456:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae;g__Romboutsia;s__Romboutsia_timonensis(NR_144740.1)	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV457:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0
+ASV458:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Butyrivibrio;s__NA	0	0	0	0	0	0	0	0	0	50	0	370	0	0	0	0	0	0	0	0	0	0	170	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV459:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__NA	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV460:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	320	88	0	0	53	408	0	0	0	0	0	0	0	0	0	0	0	0	168	0	168	113	0
+ASV461:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV462:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV463:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV464:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	132	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV465:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	114	0	0	0	0	174	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV466:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	58	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV467:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV468:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV469:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV470:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV471:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	0	0	0	0	0	0	9	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV472:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV473:p__Candidatus Saccharibacteria;c__-;o__-;f__-;g__Saccharibacteria genera incertae sedis;s__NA	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV474:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	1030	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV475:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	215	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV476:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	188	0	0	0	116	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	32	0	101	0	0
+ASV477:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Dorea;s__NA	0	0	0	0	0	0	0	0	0	0	0	116	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	81	0	0	0	0	0	0	0	0	0
+ASV478:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV479:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	110	0	0	0	0	0	0
+ASV480:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Blautia;s__NA	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV481:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Roseburia;s__NA	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV482:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV483:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV484:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV485:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	88	0	0	0	0	0	0	0	0	0
+ASV486:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV487:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Marvinbryantia;s__NA	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	186	0	0	0	0	0	0
+ASV488:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__Barnesiella_intestinihominis(AB370251)	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0
+ASV489:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	120	0	0	0	0	0	0	0	0	0
+ASV490:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV491:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV492:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV493:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV494:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV495:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Intestinimonas;s__NA	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV496:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4151	1559	0	0	143	0	0	0	0	0	0	0	0
+ASV497:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1431	1212	0	0	64	0	0	0	0	0	0	0	0
+ASV498:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	45	0	108	0	48	0	0	0	0	0	0	0	67	0	0	167	35	0	0	58	33	0	0	0	78	0	0	0
+ASV499:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	36	113	0	0	0	111	0	0	0	0	0	0	0	0	0	0	0
+ASV500:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	23	0	0	0	0	0	0	0	0
+ASV501:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	21	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0
+ASV502:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	41	46	0	42	7	40	105	0	45	24	0	0	0	107	0	0	0
+ASV503:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV504:p__Firmicutes;c__Bacilli;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV505:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	80	0	0	0	0	0
+ASV506:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	9	0	19	0	54	0	0	0	0	0	0	43	26	55	75	6	62	40	0	9	25	0	0	0	102	0	0	0
+ASV507:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	9	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV508:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	139	0	0	0	0	0
+ASV509:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	355	0	17	0	0	16	0	0	0	0	0	0	0	0	0	0
+ASV510:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	150	49	0	39	20	0	0	0	42	0	174	0	85	0	0	0
+ASV511:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	6	0	9	0	34	0	0	0	0	0	0	9	0	0	0	0	0	15	0	0	16	0	0	0	23	0	0	0
+ASV512:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	4	0	31	0	0	0	0	0	0	0	0	47	6	26	0	0	0	15	0	0	42	0	0	0	0	0	0	0
+ASV513:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	21	0	0	0	0	0	0	4	12	69	25	0	7	36	0	0	0	0	0	0	0	0	0	0
+ASV514:p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__Salmonella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	516	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV515:p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter_pittii(HQ180184)	0	0	0	0	0	0	0	0	0	0	0	0	0	87	0	0	0	0	0	230	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0
+ASV516:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV517:p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus_saprophyticus(AP008934)	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV518:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV519:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2912	0	0	0	0	0	0	0	0	1294	0	76	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV520:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	569	0	0	0	0	0	0	0	0	253	0	113	165	0	0	190	0	0	373	0	0	0	125	0	0	0
+ASV521:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	467	0	38	0	0	0	0	0	0	1546	0	116	815	0	0	499	0	0	496	0	0	0	804	0	0	0
+ASV522:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	250	0	186	0	0	0	0	0	0	113	0	39	19	0	0	11	0	0	292	0	0	0	30	0	0	0
+ASV523:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	214	0	20	0	0	0	0	0	0	0	93	38	28	17	21	11	0	121	0	0	55	0	90	0	0	0
+ASV524:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	209	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV525:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	198	0	218	0	0	0	0	0	0	122	0	94	67	0	0	79	0	0	49	0	0	0	107	0	0	0
+ASV526:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	195	0	64	0	0	0	0	0	0	146	0	246	408	0	0	231	0	0	39	0	0	0	297	0	0	0
+ASV527:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	171	0	200	0	0	0	0	0	0	77	0	279	55	0	0	88	0	0	57	0	0	0	167	0	0	0
+ASV528:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	140	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	124	0	0	0
+ASV529:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	112	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV530:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	108	0	0	0	0	0	0	0	0	0	0	0	0	0	211	0	0	0	0	0	252	0	0	0	0	0
+ASV531:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	106	0	0	0	0	0	0	0	0	0	7	43	0	0	0	0	0	0	0	0	0	0	13	0	0	0
+ASV532:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	96	0	493	0	0	0	0	0	0	149	0	115	63	0	0	72	0	0	75	0	0	0	302	0	0	0
+ASV533:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	87	0	104	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV534:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	0	0	29	0	20	0	0	0	0	0	0	0	0	0	0	0
+ASV535:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	83	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0
+ASV536:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0
+ASV537:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	0	0	282	0	87	326	0	0	216	0	0	55	0	0	0	301	0	0	0
+ASV538:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV539:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	66	0	69	0	0	0	0	0	0	0	0	0	111	0	0	0	0	19	18	0	0	0	0	0	0	0
+ASV540:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV541:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0
+ASV542:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	103	0	0	0	0	0	0	71	0	135	31	0	0	32	0	0	52	0	0	0	30	0	0	0
+ASV543:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	170	0	279	55	0	0	110	0	0	352	0	0	0	109	0	0	0
+ASV544:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV545:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV546:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	114	0	0	0	0	0	0	0	0	149	0	0	0	0	0	0	0	0	0	0	43	0	0	0
+ASV547:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	37	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	15	0	0	0	174	0	0	0
+ASV548:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0
+ASV549:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	42	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	34	0	0	0	74	0	0	0
+ASV550:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	270	0	0	0	0	0	0	255	0	109	35	0	0	28	0	0	230	0	0	0	55	0	0	0
+ASV551:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV552:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0
+ASV553:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	18	0	0	0	0	0	0	36	0	21	20	0	0	21	0	0	16	0	0	0	40	0	0	0
+ASV554:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	32	0	0	0	0	0	0	43	18	42	0	0	4	55	0	5	0	0	0	0	17	0	0	0
+ASV555:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	44	0	22	74	0	19	32	0	0	44	0	0	0	0	0	0	0
+ASV556:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	69	0	0	0	0	0	0	0	30	30	0	0	35	46	0	0	0	0	0	0	57	0	0	0
+ASV557:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	48	0	0	0	0	0	0	18	0	23	35	0	0	45	0	53	40	0	0	0	81	0	0	0
+ASV558:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	7	0	0	0	0	0	0	6	0	9	29	0	0	0	0	0	0	0	0	0	79	0	0	0
+ASV559:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0
+ASV560:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	90	0	0	0	0	0	0	15	0	85	34	0	0	27	0	0	12	0	0	0	106	0	0	0
+ASV561:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV562:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	179	0	0	0	0	0	0	93	0	86	9	0	0	13	0	0	100	0	0	0	126	0	0	0
+ASV563:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	111	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0
+ASV564:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	17	0	0	0	0	0	0	19	0	30	35	0	0	22	0	0	9	0	0	0	31	0	0	0
+ASV565:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	10	0	0	0	0	0	0	13	26	22	0	12	0	22	0	0	11	0	0	0	0	0	0	0
+ASV566:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV567:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV568:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	43	0	0	0	0	0	0	0	0	110	301	0	0	70	0	0	0	0	0	0	0	0	0	0
+ASV569:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	23	0	0	0
+ASV570:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV571:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV572:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	87	0	117	40	0	0	35	0	0	60	0	0	0	205	0	0	0
+ASV573:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	27	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	57	0	0	0
+ASV574:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV575:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	14	0	0	0	0	0	0	40	0	43	15	14	26	67	0	32	24	0	0	0	57	0	0	0
+ASV576:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	20	0	0	0	0	0	0	0	0	13	13	0	0	18	0	0	0	0	0	0	0	0	0	0
+ASV577:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0
+ASV578:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	29	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV579:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	9	0	26	27	0	0	16	0	0	24	0	0	0	18	0	0	0
+ASV580:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV581:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	59	0	0	0	0	0	0	0	0	21	138	0	0	21	0	0	0	0	0	0	50	0	0	0
+ASV582:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV583:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	21	0	11	0	0	0	0	0	0	0	13	0	0	0
+ASV584:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	19	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0
+ASV585:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	22	0	0	0	0	0	0	0	0	0	30	0	0	37	0	0	13	0	0	0	102	0	0	0
+ASV586:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0
+ASV587:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	22	0	0	0	0	0	0	0	12	24	8	0	0	18	0	42	0	0	0	0	38	0	0	0
+ASV588:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV589:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV590:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV591:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV592:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	74	0	0	0	0	0	0	13	8	0	67	0	0	31	0	30	0	0	0	0	0	0	0	0
+ASV593:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	19	0	0	0	0	0	0	15	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV594:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	4	0	0	0	0	0	0	16	0	20	10	0	4	8	0	0	41	0	0	0	21	0	0	0
+ASV595:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV596:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV597:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV598:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	23	0	0	0	49	0	0	0
+ASV599:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0
+ASV600:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV601:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV602:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	6	14	0	0	9	0	0	0	0	0	0	6	0	0	0
+ASV603:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	9	0	10	0	0	0	0	0	0	33	0	0	0	0	0	0	0
+ASV604:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	182	0	0	0	0	0	0	12	0	261	0	11	0	69	0	0	22	0	0	0	37	0	0	0
+ASV605:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV606:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	15	0	0	0	0	0
+ASV607:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV608:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0
+ASV609:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	324	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33
+ASV610:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	296	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV611:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	265	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV612:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	169	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	137	0	0	0	0	0	0
+ASV613:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	165	0	0	0	0	38	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	0	0	63
+ASV614:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV615:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	83	0	0	0	0	21	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	37
+ASV616:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV617:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	79	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV618:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0
+ASV619:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV620:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	0	0	0	0	0
+ASV621:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV622:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV623:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Anaerotruncus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV624:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Butyricicoccus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV625:p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Sutterellaceae;g__Parasutterella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV626:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV627:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_plebeius(AB200217)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV628:p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus_saprophyticus(AP008934)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV629:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV630:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales Incertae Sedis XIII;g__Anaerovorax;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV631:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Blautia;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV632:p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV633:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV634:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV635:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	755	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV636:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	313	0	0	0	0	0	0	58	127	0	98	0	0	447	0	35	0	0	0	0	47	0	0	0
+ASV637:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	265	0	0	0	0	0	0	0	0	1685	690	0	0	119	0	0	0	0	0	0	0	0	0	0
+ASV638:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV639:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	221	0	0	0	0	0	0	0	0	834	582	0	0	785	0	0	155	0	0	0	0	0	0	0
+ASV640:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	214	0	0	0	0	0	0	93	200	70	798	17	86	105	0	0	24	0	0	0	140	0	0	0
+ASV641:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	211	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV642:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	208	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV643:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	175	0	0	0	0	0	0	0	12	134	342	0	0	599	0	0	0	0	18	0	217	0	0	0
+ASV644:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	109	0	0	0	0	0	0	0	0	194	133	0	0	0	0	0	270	0	0	0	3836	0	0	0
+ASV645:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	101	0	0	0	0	0	0	0	0	518	105	0	0	399	0	0	63	0	0	0	157	0	0	0
+ASV646:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV647:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	86	0	0	0	0	0	0	0	0	510	741	0	0	326	0	0	29	0	0	0	102	0	0	0
+ASV648:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV649:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0	0	0	113	0	0	238	0	0	0	0	0	0	0	0	0	0
+ASV650:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV651:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	64	0	0	0	45	0	0	22	0	13	0	0	0	0	0
+ASV652:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	0	35	0	58	10	0	0	78	0	0	0	0	0	0	0	0	0	0
+ASV653:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	102	0	0	31	59	0	0	17	3	0	17	0	0	0	0	0
+ASV654:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	0	59	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0
+ASV655:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV656:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	27	0	59	133	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV657:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	39	0	0	21	0	0	0	0	0	0	0	0	0	0
+ASV658:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV659:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	33	0	0	6	23	0	0	0	0	0	0	0	0	0	0
+ASV660:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0
+ASV661:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	17	31	8	0	0	22	0	17	0	0	0	0	15	0	0	0
+ASV662:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	11	0	7	0	0	0	0	23	0	0	0
+ASV663:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	69	0	0	0
+ASV664:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV665:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	7	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0
+ASV666:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	9	0	62	178	0	0	57	0	0	0	0	0	0	42	0	0	0
+ASV667:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0
+ASV668:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	31	15	180	0	0	60	0	121	0	0	0	0	180	0	0	0
+ASV669:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	6	0	222	0	0	0	307	0	0	4	0	0	0	0	0	0	0
+ASV670:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	23	0	17	45	0	0	67	0	0	0	0	0	0	60	0	0	0
+ASV671:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	35	24	0	0	21	0	0	0	0	0	0	16	0	0	0
+ASV672:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV673:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	25	0	0	48	0	0	11	0	0	5	0	0	0	79	0	0	0
+ASV674:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	47	13	0	0	23	0	0	0	0	0	0	99	0	0	0
+ASV675:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	21	49	0	0	21	0	0	0	0	0	0	64	0	0	0
+ASV676:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV677:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	6	7	0	0	0	7	0	6	0	0	0	0	22	0	0	0
+ASV678:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	20	0	0	0	9	0	0	0	0	0	0	0	0	0	0
+ASV679:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61	0	0	0
+ASV680:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV681:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	27	0	34	71	0	0	35	0	0	0	0	0	0	35	0	0	0
+ASV682:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	10	0	0	0	22	0	0	27	0	0	0	0	0	0	0
+ASV683:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV684:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+ASV685:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	17	0	0	0	0	11	0	15	0	0	0	0	0	0	0	0
+ASV686:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV687:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0
+ASV688:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	30	0	0	0
+ASV689:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV690:p__Firmicutes;c__Bacilli;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV691:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	34	0	0	0
+ASV692:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV693:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+ASV694:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	4	0	0	0	0	0	0	0
+ASV695:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	386	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV696:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	241	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0
+ASV697:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae;g__Clostridium XI;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	154	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV698:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Flavonifractor;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	133	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0	0	76	0	43	0	0
+ASV699:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Blautia;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	85	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	35	0	25	0	28	0	0
+ASV700:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV701:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	160	0	0	0	0	0	0
+ASV702:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Blautia;s__Blautia_wexlerae(EF036467)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0
+ASV703:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0
+ASV704:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV705:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Holdemanella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV706:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	11	0	0
+ASV707:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV708:p__Bacteroidetes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0
+ASV709:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV710:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Lachnospiracea incertae sedis;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV711:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV712:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV713:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV714:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	186	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV715:p__Proteobacteria;c__Deltaproteobacteria;o__Desulfovibrionales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV716:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV717:p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV718:p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Acidaminococcaceae;g__Acidaminococcus;s__Acidaminococcus_fermentans(X78017)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV719:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV720:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Gemmiger;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0
+ASV721:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_caccae(X83951)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	28	0
+ASV722:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0
+ASV723:p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Sutterellaceae;g__Sutterella;s__Sutterella_wadsworthensis(GU585669)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	11	0	0
+ASV724:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Blautia;s__Blautia_obeum(X85101)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV725:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV726:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV727:p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Veillonellaceae;g__Megamonas;s__"Megamonas_funiformis(AB300988)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV728:p__Tenericutes;c__Mollicutes;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV729:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV730:p__Euryarchaeota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__Methanosphaera;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV731:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVb;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV732:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiales Incertae Sedis XI;g__Anaerococcus;s__Anaerococcus_vaginalis(AF542229)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV733:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	712	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV734:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV735:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0	0
+ASV736:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Tidjanibacter_massiliensis(NR_147372.1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0
+ASV737:p__Synergistetes;c__Synergistia;o__Synergistales;f__Synergistaceae;g__Cloacibacillus;s__Cloacibacillus_porcorum(JQ809697)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV738:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV739:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV740:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV741:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae 1;g__Clostridium sensu stricto;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV742:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV743:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	361	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV744:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	358	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV745:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV746:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	149	0	0	0	0	0	0	0	0	0	0	3259	0	0	0	0	0	0
+ASV747:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	122	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV748:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV749:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV750:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_fragilis(CR626927)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0
+ASV751:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV752:p__Proteobacteria;c__Alphaproteobacteria;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV753:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV754:p__Tenericutes;c__Mollicutes;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV755:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Eubacteriaceae;g__Eubacterium;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV756:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Butyricimonas;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV757:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae 1;g__Clostridium sensu stricto;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV758:p__Verrucomicrobia;c__Opitutae;o__Puniceicoccales;f__Puniceicoccaceae;g__Cerasicoccus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV759:p__Bacteroidetes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV760:p__Actinobacteria;c__Actinobacteria;o__Coriobacteriales;f__Coriobacteriaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV761:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV762:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV763:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__Prevotella_timonensis(DQ518919)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV764:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV765:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV766:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1185	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV767:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	169	64	18	0	0	67	33	0	0	25	0	11	0	0	0	0	0
+ASV768:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	162	0	0	72	0	0	0	0	0	49	0	0	0	137	0	0	0
+ASV769:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	124	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV770:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	119	0	19	0	0	0	20	0	0	0	0	0	0	0	0	0	0
+ASV771:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	89	0	17	6	0	0	0	0	0	21	0	0	0	0	0	0	0
+ASV772:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	55	0	0	0	0	0	0	0	0	0	0	0	0	60	0	0	0
+ASV773:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0
+ASV774:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	31	0	0	25	0	0	0	0	0	0	68	0	0	0
+ASV775:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV776:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	18	0	0	0	0	0	0	0	0	0	86	0	0	0
+ASV777:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	169	0	0	0	0	0	0	0
+ASV778:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0
+ASV779:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	95	0	0	0	0	0	0	0
+ASV780:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	89	0	0	36	100	0	0	0	0	19	0	45	0	0	0
+ASV781:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	35	28	31	0	34	33	0	24	0	0	0	0	63	0	0	0
+ASV782:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV783:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	21	0	0	0	0	0	0	36	0	0	0	0	0	0	0
+ASV784:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV785:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV786:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	17	16	0	0	8	0	0	28	0	0	0	24	0	0	0
+ASV787:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV788:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	7	0	0	0	5	0	0	0	11	0	0	0
+ASV789:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	48	49	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV790:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	92	0	0	0	0	0	0	0
+ASV791:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0
+ASV792:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV793:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0
+ASV794:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	27	0	0	0	11	0	0	73	0	0	0	0	0	0	0
+ASV795:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0
+ASV796:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	81	0	0	0	22	0	0	0	0	0	0	0	0	0	0
+ASV797:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	17	0	13	20	9	0	0	0	0	0	0	0	0	0	0	0
+ASV798:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV799:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	7	0	0	8	0	0	0	0	0	0	0	0	0	0
+ASV800:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	5	11	7	7	5	13	0	6	10	0	0	0	0	0	0	0
+ASV801:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	12	0	0	0	8	0	0	0
+ASV802:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV803:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	18	0	0	0	0	0	0	0	0	0	0	33	0	0	0
+ASV804:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	6	0	0	0	0	0	0	5	0	0	0	0	0	0	0
+ASV805:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	21	0	0	16	0	0	0	0	0	0	0	0
+ASV806:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	8	9	0	0	10	0	0	10	0	0	0	0	0	0	0
+ASV807:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV808:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	630	0	0	0	0	0	0	0	0	0	362	0	0	0	0	0
+ASV809:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	503	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV810:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	246	580	0	0	0	0	0	0	0	0	109	0	0	0	0	0
+ASV811:p__Firmicutes;c__Bacilli;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	181	0	0	0	0	0	0	0	0	0	156	0	0	0	0	0
+ASV812:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	165	0	0	0	0	0	0	0	0	0	150	0	0	0	0	0
+ASV813:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	129	0	0	0	0	0	0	0	0	0	83	0	0	0	0	0
+ASV814:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	89	0	0	0	0	0	0	0	0	0	87	0	0	0	0	0
+ASV815:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	87	0	0	0	14	0	0	0	0	0	0	0	33	0	0	0
+ASV816:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0	0	0	0	33	0	30	0	0	0
+ASV817:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0	8	0	0	0	0	0	0	0	15	0	0	0
+ASV818:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	55	61	0	0	0	80	0	0	0	0	0	0	165	0	0	0
+ASV819:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	23	36	0	0	20	0	0	24	0	0	0	0	0
+ASV820:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0
+ASV821:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV822:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV823:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	69	0	0	0
+ASV824:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV825:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV826:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	11	0	0	0	11	0	0	0	0	0	0	0	0
+ASV827:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	54	0	0	0	34	0	0	0	0	0	0	111	0	0	0
+ASV828:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV829:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0
+ASV830:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV831:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV832:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV833:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	534	117	0	0	379	0	0	70	0	0	0	142	0	0	0
+ASV834:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	322	73	0	0	295	0	0	0	0	0	0	246	0	0	0
+ASV835:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	264	0	0	0	0	0	0	40	0	0	0	0	0	0	0
+ASV836:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	175	83	0	11	166	0	0	0	0	0	0	0	0	0	0
+ASV837:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	156	0	0	0	105	0	0	0	0	0	0	32	0	0	0
+ASV838:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	154	37	0	0	111	0	0	0	0	0	0	0	0	0	0
+ASV839:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	135	34	0	0	23	0	0	47	0	28	0	0	0	0	0
+ASV840:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	111	93	0	0	0	0	0	48	0	0	0	0	0	0	0
+ASV841:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	0	148	0	0	0	0	0	0	0
+ASV842:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	89	0	0	0	41	0	0	0	0	0	0	90	0	0	0
+ASV843:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	552	0	0	0	0	0	0	0	0	0	1149	0	0	0
+ASV844:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	0	13	0	0	0	0	0	0	0
+ASV845:p__Firmicutes;c__Bacilli;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV846:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	274	0	0	126	0	0	0	0	0	0	0	0	0	0
+ASV847:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	32	0	0	0	0	0	0	0
+ASV848:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	55	0	0	0	0	0	0	0
+ASV849:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	8	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV850:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	60	0	0	0	0	0	0	0	0	0	90	0	0	0
+ASV851:p__Firmicutes;c__Bacilli;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV852:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	16	0	0	0	0	0	0	0	0	0	0
+ASV853:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	24	0	0	47	0	0	0	0	0	0	0	0	0	0
+ASV854:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	18	0	0	0	0	0	0	0	0	0	0
+ASV855:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	13	0	0	0	0	0	0	19	0	0	0
+ASV856:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV857:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV858:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	44	0	0	0	0	0
+ASV859:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	19	0	0	0	0	0	0	141	0	0	0
+ASV860:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	24	0	0	49	0	0	9	0	0	0	43	0	0	0
+ASV861:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	10	0	0	0	0	0	0	0	0	0	0
+ASV862:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV863:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	15	0	0	14	0	0	0	0	10	0	0	0	0	0
+ASV864:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	29	0	0	0	0	0	0	0	0	0	60	0	0	0
+ASV865:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	90	0	0	0	0	0	0	0	0	0	0
+ASV866:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	13	0	0	0
+ASV867:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	8	0	0	0
+ASV868:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV869:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV870:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV871:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	45	0	0	0	8	0	0	0
+ASV872:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV873:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV874:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV875:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	291	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV876:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	19	0	0	0	85	0	0	0
+ASV877:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	13	0	0	0	0	0	0	31	0	0	0
+ASV878:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	38	0	0	0	0	0	0	41	0	0	0
+ASV879:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	11	0	14	0	0	0
+ASV880:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV881:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV882:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV883:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	70	0	0	0	0	0	0	0	0	0	0	0
+ASV884:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV885:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASV886:p__Firmicutes;c__Bacilli;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	10	0	0	0
+ASV887:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	12	0	0	0	0	0	0	15	0	0	0
+ASV888:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	3	13	0	10	0	0	0	0	7	0	0	0
+ASV889:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	12	0	0	0	0	0	0	10	0	0	0
+ASV890:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	399	0	0	0	498	0	0	0	0	0	0	0	0
+ASV891:p__Firmicutes;c__Bacilli;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	205	18	0	0	5	0	0	0	0	0	0	0	0
+ASV892:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0	0	0	0	0	0	0	0
+ASV893:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	70	0	0	0	0	0	0	0	0	0	0	0	0
+ASV894:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0
+ASV895:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	29	0	0	0	0	0	0	0	0	0	0	0
+ASV896:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	58	0	0	0	0	0	0	0
+ASV897:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	35	0	0	67	0	0	0	0	0	0	0	0
+ASV898:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	17	0	0	20	0	0	16	0	0	0	0	0
+ASV899:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0
+ASV900:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	5	0	0	0	0	0	0	0	0	0	0
+ASV901:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0
+ASV902:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0
+ASV903:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0
+ASV904:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	115	0	0	0	0	0	0	0	0	0	0	0
+ASV905:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	94	0	0	0	0	0	0	0	0	0	0	0
+ASV906:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	0	0
+ASV907:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0
+ASV908:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0
+ASV909:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0
+ASV910:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0
+ASV911:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	14	0	0	0	0	0	0	0
+ASV912:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	6	0	0	0
+ASV913:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+ASV914:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1410	0	0	0	0	0	0	0	0	0	0
+ASV915:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	0	0	0	0	0	0	0	0	0
+ASV916:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	14	0	0	0	30	0	0	0
+ASV917:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	14	0	0	0
+ASV918:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	24	0	0	0	0	0	0	0
+ASV919:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0
+ASV920:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0
+ASV921:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	70	7	0	0	0	0	0	0	0
+ASV922:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0
+ASV923:p__Firmicutes;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0
+ASV924:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0
+ASV925:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0
+ASV926:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0
+ASV927:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	14	0	0	0	18	0	0	0
+ASV928:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0
+ASV929:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0
+ASV930:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0
+ASV931:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0
+ASV932:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0
+ASV933:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	245	0	0	0	0	0	0	0	0	0
+ASV934:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	163	0	0	118	0	0	0	0	0	0
+ASV935:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	132	0	0	0	0	0	0	0	0	0
+ASV936:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	129	0	0	0	0	0	0	0	0	0
+ASV937:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	95	0	0	0	0	0	0	0	0	0
+ASV938:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	78	0	0	0	0	0	0	0	0	0
+ASV939:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0
+ASV940:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	84	0	0	0	0	0	0
+ASV941:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0
+ASV942:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0
+ASV943:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0
+ASV944:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0
+ASV945:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0
+ASV946:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0
+ASV947:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0
+ASV948:p__Firmicutes;c__Negativicutes;o__Selenomonadales;f__Acidaminococcaceae;g__Acidaminococcus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0
+ASV949:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0
+ASV950:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0
+ASV951:p__Proteobacteria;c__Deltaproteobacteria;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Desulfovibrio;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+ASV952:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+ASV953:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	610	0	0	0	0	0	0	0	0
+ASV954:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	215	0	0	46	0	0	0	0	0
+ASV955:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	206	0	0	0	0	0	0	0	0
+ASV956:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	127	0	0	0	0	0	0	0	0
+ASV957:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0
+ASV958:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	0	0	0	0	0	0	0
+ASV959:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0
+ASV960:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	118	0	0	0	0	0	0	0
+ASV961:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	0	0
+ASV962:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	0	0
+ASV963:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0
+ASV964:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0
+ASV965:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0
+ASV966:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0
+ASV967:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0
+ASV968:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0
+ASV969:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0
+ASV970:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0
+ASV971:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0
+ASV972:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0
+ASV973:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0
+ASV974:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0
+ASV975:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0
+ASV976:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	7	0	0	0	0	0
+ASV977:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0
+ASV978:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0
+ASV979:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0
+ASV980:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0
+ASV981:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0
+ASV982:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0
+ASV983:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0
+ASV984:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0
+ASV985:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0
+ASV986:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0
+ASV987:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+ASV988:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2881	0	5588	0	1642	1861	0
+ASV989:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1677	0	0	0	0	0	0
+ASV990:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	915	0	0	0	0	0	0
+ASV991:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	776	0	0	0	0	0	0
+ASV992:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	295	0	0	0	0	0	0
+ASV993:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	137	0	0	0	0	0	0
+ASV994:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	101	0	0	0	0	0	0
+ASV995:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	0	0	0	0	0	0
+ASV996:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0
+ASV997:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	35
+ASV998:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0
+ASV999:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	0
+ASV1000:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0
+ASV1001:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	16	0	0	0	0
+ASV1002:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0
+ASV1003:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Flavonifractor;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0
+ASV1004:p__Tenericutes;c__Mollicutes;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0
+ASV1005:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae;g__Romboutsia;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0
+ASV1006:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae 1;g__Clostridium sensu stricto;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0
+ASV1007:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+ASV1008:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+ASV1009:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	78	0	0	0	0	0
+ASV1010:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0
+ASV1011:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0
+ASV1012:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	21	0	0	0
+ASV1013:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0
+ASV1014:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	226	0	0	0	0
+ASV1015:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	164	0	0	0	0
+ASV1016:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	116	0	0	0	0
+ASV1017:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	103	0	0	0	0
+ASV1018:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0
+ASV1019:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	89	0	0	0	0
+ASV1020:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	0	0
+ASV1021:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Butyrivibrio;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0
+ASV1022:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0
+ASV1023:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes_onderdonkii(AY974071)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0
+ASV1024:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	17	0	0
+ASV1025:p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Holdemanella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0
+ASV1026:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Coprococcus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0
+ASV1027:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Pseudoflavonifractor;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0
+ASV1028:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Clostridium IV;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0
+ASV1029:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0
+ASV1030:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Porphyromonas;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0
+ASV1031:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0
+ASV1032:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Butyricimonas;s__Butyricimonas_paravirosa(AB916502)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0
+ASV1033:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+ASV1034:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae;g__Peptostreptococcus;s__Peptostreptococcus_stomatis(DQ160208)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+ASV1035:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Odoribacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+ASV1036:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+ASV1037:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	91	0	0	0
+ASV1038:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	0	0	0
+ASV1039:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	0	0
+ASV1040:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0
+ASV1041:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0
+ASV1042:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0
+ASV1043:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0
+ASV1044:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0
+ASV1045:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0
+ASV1046:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0
+ASV1047:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0
+ASV1048:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0
+ASV1049:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0
+ASV1050:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0
+ASV1051:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0
+ASV1052:p__NA;c__NA;o__NA;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+ASV1053:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus_ultunensis(AY253660)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0
+ASV1054:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	16	0
+ASV1055:p__Actinobacteria;c__Actinobacteria;o__Coriobacteriales;f__Coriobacteriaceae;g__Olsenella;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0
+ASV1056:p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Haemophilus;s__Haemophilus_parainfluenzae(AY362908)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0
+ASV1057:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_cellulosilyticus(AJ583243)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0
+ASV1058:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Lachnospiracea incertae sedis;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0
+ASV1059:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides_mediterraneensis(NR_144744.1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0
+ASV1060:p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0
+ASV1061:p__Actinobacteria;c__Actinobacteria;o__Coriobacteriales;f__Coriobacteriaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+ASV1062:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+ASV1063:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+ASV1064:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Hespellia;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	543
+ASV1065:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	81
+ASV1066:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Acetatifactor;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	79
+ASV1067:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67
+ASV1068:p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42
+ASV1069:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Ruminococcus;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37
+ASV1070:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Oscillibacter;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35
+ASV1071:p__Firmicutes;c__Clostridia;o__Clostridiales;f__NA;g__NA;s__NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
