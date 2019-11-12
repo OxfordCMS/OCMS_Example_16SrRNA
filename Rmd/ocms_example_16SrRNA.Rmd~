@@ -1,0 +1,291 @@
+---
+title: Data analysis example report
+header-includes: #allows you to add in your own Latex packages
+- \usepackage{float} #use the 'float' package
+- \floatplacement{figure}{H} #make every figure with caption = h
+
+output:
+  pdf_document:
+    fig_caption: true
+    keep_tex: true
+    latex_engine: pdflatex
+  html_document:
+    df_print: paged
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+#source("config.R")
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(cache = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(out.extra = '')
+# knitr::opts_chunk$set(fig.pos = 'H')
+knitr::opts_knit$set(root.dir = ".")
+
+# set colours here
+group.colours <- c("grey", "purple", "black", "blue")
+names(group.colours) <- c("WT:water", "WT:DSS", "MMP-9KO:water", "MMP-9KO:DSS")
+
+```
+
+```{r load.libraries, echo=FALSE, message=FALSE}
+library(knitr)
+library(gridExtra)
+library(phyloseq)
+library(ggplot2)
+library(data.table)
+library(vegan)
+library(pheatmap)
+source("/gfs/devel/nilott/AmpSeqKit/R/diversity.R")
+source("/gfs/devel/nilott/AmpSeqKit/R/relab.R")
+source("/gfs/devel/nilott/NGSKit/R/deseq2_helper.R")
+source("/gfs/devel/nilott/MIGTranscriptomeExplorer/R/MIGTranscriptome_plotting.R")
+source("/gfs/devel/nilott/MIGTranscriptomeExplorer/R/MIGTranscriptome_retrieval.R")
+source("/gfs/devel/nilott/AmpSeqKit/R/plots.R")
+source("/gfs/devel/nilott/AmpSeqKit/R/utils.R")
+source("/gfs/devel/nilott/AmpSeqKit/R/differential_abundance.R")
+
+```
+
+# Overview
+
+Here we present an example analysis report from the OCMS. The data are from a published study that were made publically available. The original article can be found [here](https://www.nature.com/articles/s41522-018-0059-0) and the raw data can be downloaded from [here](http://www.ebi.ac.uk/ena/data/view/PRJEB21337). The data are 16S rRNA amplicon sequencing data (V4 region sequenced on the MISeq) from wild-type mice and MMP-9 deficient mice in either untreated or DSS treatemd conditions (i.e. inflammatory bowel disease model. Please see the original article for more details.
+
+# Pre-processing
+
+The sequencing have been run through the OCMS Dada2 pipeline (please see the example dada2 report) and the analyses performed here are based on the amplicon sequence variant (ASV) table that is output from that pipeline. It should be noted here that the sequence quality in a lot of the samples was poor. This appeared to cause a problem for Dada2 as we were unable to assign taxononmy even at the phylum level for the majority of sequences from 15 samples. These samples have been removed for the purposes of this analysis i.e. as this is simply an example report.
+
+# General features
+
+First we assess the relative abundance of the ASVs along with their taxonomic assignments. We look at the average (across samples) relative abundance distribution of ASVs and the ASV/taxonomic distribution across individual samples. For the purposes of the second plot we are plotting the ASVs that are present at an abundance pf > 5% in at least 5 samples. All of the rest of the ASVs are lumped into the "other" category.
+
+
+```{r relative.abundance, fig.height=10, fig.width=15, echo=FALSE, message=FALSE}
+
+# read in ASV counts and metadata
+metadata <- read.csv("sdrf.tsv", header=T, stringsAsFactors=F, sep="\t")
+metadata$Genotype <- gsub(" ", "", metadata$Genotype)
+metadata$condition <- paste0(metadata$Genotype, ":", metadata$Phenotype)
+rownames(metadata) <- metadata$X.sample_name
+
+asvs <- data.frame(data.table::fread("asv_abundances.tsv", header=T, stringsAsFactors=F, sep="\t"))
+
+rownames(asvs) <- asvs$sequence
+asvs <- asvs[,2:ncol(asvs)]
+colnames(asvs) <- gsub("stool.", "", colnames(asvs))
+
+# get rid of troublesome samples
+asvs <- asvs[,colSums(asvs[grep("p__NA", rownames(asvs)),]) < 5000]
+
+# subset metadata
+metadata <- metadata[metadata$X.sample_name %in% colnames(asvs),]
+
+# order the same as metadata
+asvs <- asvs[,metadata$X.sample_name]
+
+# relative abundance
+asv.relab <- relab(asvs)
+
+# take the average abundance
+ave.relab <- data.frame(average_relative_abundance=rowMeans(asv.relab))
+distribution <- ggplot(ave.relab, aes(average_relative_abundance))
+distribution <- distribution + geom_freqpoly() + theme_bw()
+
+# plot the ASVs that are > 1% on average
+toplot <- filterRows(asv.relab, 5, 5)
+toplot["other",] <- unname(100-colSums(toplot))
+
+# add the condition for visualisation purposes
+colnames(toplot) <- paste0(metadata$condition, "_", colnames(toplot))
+toplot <- toplot[,mixedsort(colnames(toplot))]
+toplot$ASV <- rownames(toplot)
+toplot <- melt(toplot)
+relab.bar <- plotBar(toplot)
+
+hlay <- rbind(c(1, NA, NA),
+              c(2, 2, 2))
+grid.arrange(distribution, relab.bar, layout_matrix=hlay)
+
+```
+
+As expected there are many ASVs at low abundance and few that make up the majority of the community. In this dataset it is already fairly clear that there are differences in DSS treated mice in both the mmp-9 KO and WT mice. 
+
+
+# Alpha diversity
+
+Here we asses whether there are any differences between the experimental groups in terms of alpha diversity (within-sample diversity) using the Shannon diversity index. The Kruskal-Wallis test is used to determine statistical significance of any difference.
+
+```{r alpha.diversity, fig.height=3, fig.width=5, echo=FALSE, message=FALSE}
+
+
+dat <- otu_table(asvs, taxa_are_rows=TRUE)
+sample.data <- sample_data(metadata)
+dat <- merge_phyloseq(dat, sample.data)
+
+richness <- estimate_richness(dat, measures=c("Shannon"))
+metadata$shannon <- richness$Shannon
+
+metadata$condition <- factor(metadata$condition, levels=c("WT:water", "WT:DSS", "MMP-9KO:water", "MMP-9KO:DSS"))
+p1 <- ggplot(metadata, aes(x=condition, y=shannon, group=condition, colour=condition))
+p2 <- p1 + geom_boxplot()
+p3 <- p2 + theme_bw()
+p4 <- p3 + geom_jitter(width=0.2)
+p5 <- p4 + scale_colour_manual(values=group.colours) 
+p5 + theme(axis.text.x=element_text(angle=90))
+
+to.test <- data.frame(alpha.diversity=metadata$shannon,
+                      condition=metadata$condition)
+
+d <- multiFactorKruskalTest(to.test)
+kable(d)
+```
+
+The analyses above indicate that there is a significant difference in Shannon diversity between the groups. It is clear that DSS induces a reduction in Shannon diversity regardless of genotype.
+
+
+# Beta diversity
+
+Next we assess beta-diversity. The ASV counts are converted to relative abundances and bray-curtis dissimilarity is calculated using the [phyloseq](https://joey711.github.io/phyloseq/) package. 
+
+
+```{r ordination, fig.height=3, fig.width=5, echo=FALSE, message=FALSE}
+
+asvs.relab <- relab(asvs)
+dat.relab <- otu_table(asvs.relab, taxa_are_rows=TRUE)
+sample.data <- sample_data(metadata)
+dat.relab <- merge_phyloseq(dat.relab, sample.data)
+
+dat.dissimilarity <- phyloseq::distance(dat.relab, method="bray")
+
+# ordination
+dat.mds <- ordinate(dat.relab, "MDS", distance=dat.dissimilarity)
+
+# plot
+p6 <- plot_ordination(dat.relab, dat.mds, color="condition")
+p7 <- p6 + theme_bw()
+p8 <- p7 + scale_colour_manual(values=group.colours)
+p9 <- p8 + ggtitle("Bray-curtis ordination plot")
+p9
+```
+
+There is a clear change in microbial composition according to DSS treatment and no visual evidence for an association with genotype. We can formally test this using a PERMANOVA test that is implemented using the adonis function in the R package [vegan](https://cran.r-project.org/web/packages/vegan/index.html). Below is a table of the results using adonis with 1000 permutations.
+
+
+```{r permanova, echo=FALSE, message=FALSE}
+
+
+perm1 <- adonis(t(asvs.relab) ~ Phenotype + Genotype, method="bray", data=metadata, permutations=1000)
+kable(data.frame(perm1$aov.tab))
+
+```
+
+There is a significant effect of DSS treatment as suspected and a non-sigificant effect of genotype on microbial composition.
+
+
+# ASV differential abundance
+
+For differential abundance analysis we use the R package [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html). The input to this analysis was the ASV count table.
+
+
+## Normalisation
+
+First we perform the normalisation procedure and summarise the mean-variance relationship of abundance estimates across samples.
+
+```{r deseq2.normalisation, fig.width=8, fig.height=4, echo=FALSE, message=FALSE}
+
+
+# create dds object with covariates
+rownames(metadata) <- metadata$X.sample_name
+dds <- DESeqDataSetFromMatrix(countData = asvs,
+                              colData = metadata,
+			      design = ~ condition)
+
+
+dds$condition <- factor(dds$condition, levels=c("WT:water", "MMP-9KO:water", "WT:DSS", "MMP-9KO:DSS"))
+
+# run analysis
+dds.lrt <- DESeq(dds, test="LRT", fitType="local", reduced=~1)
+res <- results(dds.lrt)
+
+# get transformed counts
+nt <- normTransform(dds)
+ntdf <- data.frame(assay(nt))
+
+# plot mean-variance relationship and dispersion
+# estimates
+
+par(mfrow=c(1,2))
+plotMeanSd(ntdf)
+plotDispEsts(dds.lrt)
+
+```
+
+## Differential abundance
+
+Significantly differentially abundant ASVs have been called using the likelihood ratio test (LRT) implementeed in DESeq2. This takes all four levels in the factor condition and looks for differentially abundant features across all groups simultaneously. We plot a heatmap of differentially abundant ASVs in order to ge a feel for the conditions where differences are observed. The number of significantly differentially abundant ASVs at an adjusted p-value < 0.05 are provided in the table at the top of this section.
+
+```{r deseq2.results, fig.height=5, fig.width=7, echo=FALSE, message=FALSE}
+
+# get differential abundance results
+res <- results(dds.lrt)
+res2 <- data.frame(res@listData)
+rownames(res2) <- rownames(res)
+
+# subset for genes that are differentially regulated
+res.diff <- res2[res2$padj < 0.05 & !(is.na(res2$padj)),]
+
+# get number different
+ndiff <- nrow(res.diff)
+df <- data.frame("Number DE" = ndiff)
+kable(df, caption="number of genes differentially expressed at p < 0.05")
+
+# get matrix with diff ASV's
+ntdf.diff <- ntdf[rownames(res.diff),]
+
+# make annotation
+col.annotation <- data.frame(condition=metadata$condition)
+rownames(col.annotation) <- paste0("X",rownames(metadata))
+
+heatmapMatrixWithSampleAnnotation(ntdf.diff, col.annotation)
+
+
+# differential abundance at each level
+
+infiles <- c("asv_abundances.tsv",
+             "genus_abundance.tsv",
+	     "family_abundance.tsv",
+	     "order_abundance.tsv",
+	     "class_abundance.tsv",
+	     "phylum_abundance.tsv")
+
+# manipulate metadata
+metadata.r <- metadata
+rownames(metadata.r) <- paste0("stool", ".", rownames(metadata))
+
+results.all.levels <- multiDE(infiles, metadata.r, model.formula=~condition, reduced.model=~1)
+write.table(results.all.levels, file="differential_expression.results", sep="\t", row.names=F, quote=F)
+
+```
+
+## Differentially abundant ASVs
+
+Below we show the abundances of the significantly differentially abundant ASVs.
+
+```{r diff.asvs, fig.width=12, fig.height=16, echo=FALSE, message=FALSE}
+
+res.diff <- res.diff[order(res.diff$padj, decreasing=FALSE),]
+
+# just plot the top 10
+res.diff.top <- res.diff[1:10,] 
+asv.relab.diff <- asvs.relab[rownames(res.diff.top),]
+
+genera <- getShortNames(rownames(asv.relab.diff), type="ASV", level="genus")
+asv <- unlist(strsplit(rownames(asv.relab.diff),":"))
+asv <- asv[seq(1, length(asv),2)]
+rownames(asv.relab.diff) <- paste0(asv, ":", genera)
+
+p <- plotGeneOfInterest("", asv.relab.diff, metadata, variable="condition") + ylab("Relative abundance (%)")
+p <- p + facet_wrap(~test_id, nrow=4, ncol=3, scale="free")
+p + scale_colour_manual(values=group.colours)
+```
