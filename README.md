@@ -40,7 +40,7 @@ The data look like the following:
 
 ## Counts matrix
 
-|sequence                                                                                             |stool-2DSS__10  stool-2DSS__11  stool-2DSS__12  stool-2DSS__13 |
+|sequence                                                                                             |stool-2DSS__10 | stool-2DSS__11|stool-2DSS__12 |stool-2DSS__13 |
 |-----------------------------------------------------------------------------------------------------|---------------|---------------|---------------|---------------|
 |ASV1:p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Barnesiella;s__NA     |    7278       |      16       |       0       |     756       |
 |ASV2:p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium XlVa;s__NA       |    3669       |      0        |       0       |     0         |
