@@ -6,8 +6,8 @@ This is an example of analysis that can be done on data that is generated from p
 
 There are no checks that are performed in terms of installed dependencies so please ensure that the following packages are installed if you want to re-run the analysis in the example or run the code on your own data.
 
-|: **R package** :|
--------------------
+| **R package**   |
+|-----------------|
 | knitr           |
 | gridExtra       |
 | phyloseq        |
