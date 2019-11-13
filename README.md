@@ -1,6 +1,6 @@
 # Overview
 
-This is an example of analysis that can be run on data that is generated from processing with dada2. It assumes that processing has been performed and a counts table has been produced that contains amplicon sequence variants (rows) and samples (columns) with each element in the matrix being the count. We include these data in the hope that the analysis can be reproduced and the code can be used for anyone performing similar analyses. An example report that was built using these scripts and data can be found [here](https://www.kennedy.ox.ac.uk/files/research/advanced_data_analysis.html).
+This is an example of analysis that can be run on data that is generated from processing with dada2. It assumes that processing has been performed and a counts table has been produced that contains amplicon sequence variants (rows) and samples (columns) with each element in the matrix being the count. We include these data in the hope that the analysis can be reproduced and the code can be used for anyone performing similar analyses. An example report that was built using similar scripts with these data can be found [here](https://www.kennedy.ox.ac.uk/files/research/advanced_data_analysis.html).
 
 The analysis on example data can be run by rendering the ocms_example_16SrRNA.Rmd file in the Rmd/ folder. Dependencies and steps required to run these analyses are detailed below. The idea behind this repository is that much of the code in Rmd/ocms_example_16SrRNA.Rmd could be re-used for analyses in similar datasets.
 
@@ -22,6 +22,7 @@ There are no checks that are performed in terms of installed dependencies so ple
 | RMarkdown       |
 | DESeq2          |
 | reshape         |
+| RColorBrewer    |
 
 # Scripts
 
@@ -80,5 +81,5 @@ Once this is done it should be as simple as firing up R/RStudio and running:
 rmarkdown::render("ocms_example_16SrRNA.Rmd", output_format="html_document")
 ```
 
-This will produce an html report that contains the analysis results and the code that was run to produce the results. This should provide code snippets and such for use in your own data analysis. If you want to run the steps one by one then the html is already build at html/ocms_example_16SrRNA.html.
+This will produce an html report that contains the analysis results and the code that was run to produce the results. This should provide code snippets and such for use in your own data analysis. If you want to run the steps one by one then the html is already build at html/ocms_example_16SrRNA.html. There is also a pdf, pdf/ocms_example_16SrRNA.pdf that is the analysis guide.
 

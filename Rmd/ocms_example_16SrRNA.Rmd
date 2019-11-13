@@ -34,6 +34,8 @@ The sequencing have been run through the OCMS Dada2 pipeline (please see the exa
 
 # Setup
 
+If you are running the analysis step-by-step, make sure you have read the [GitHub page](https://github.com/OxfordCMS/OCMS_Example_16SrRNA) so that the relevant dependencies are installed and the configuration file is set up correctly.
+
 Here we set up the script with colours that we want to use for different groups as well as the required packages and script dependencies.
 
 ## Set up colours for the different groups
@@ -58,6 +60,7 @@ library(ggplot2)
 library(data.table)
 library(vegan)
 library(pheatmap)
+library(RColorBrewer)
 ```
 
 ## Source the configuration file and scripts from the repositories that this script depends on
@@ -133,8 +136,13 @@ toplot["other",] <- unname(100-colSums(toplot))
 colnames(toplot) <- paste0(metadata$condition, "_", colnames(toplot))
 toplot <- toplot[,mixedsort(colnames(toplot))]
 toplot$ASV <- rownames(toplot)
+
+# Get barplot colours
+bar.colors <- brewer.pal(nrow(toplot), "Set3")
+
+# Reshape for plotting
 toplot <- melt(toplot)
-relab.bar <- plotBar(toplot)
+relab.bar <- plotBar(toplot) + scale_fill_manual(values=bar.colors)
 
 # Create layout matrix for the plots
 hlay <- rbind(c(1, NA, NA),
@@ -283,7 +291,7 @@ col.annotation <- data.frame(condition=metadata$condition)
 rownames(col.annotation) <- paste0("X",rownames(metadata))
 
 # Heatmap to show the differences
-heatmapMatrixWithSampleAnnotation(ntdf.diff, col.annotation)
+heatmapMatrixWithSampleAnnotation(ntdf.diff, labels=FALSE, col.annotation)
 
 ```
 
